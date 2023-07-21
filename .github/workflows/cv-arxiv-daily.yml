@@ -18,7 +18,7 @@ env:
   GITHUB_USER_NAME: MarcDing
   GITHUB_USER_EMAIL: syding@cityu.mo
   
-permissions: read-all|write-all
+permissions: write-all
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
