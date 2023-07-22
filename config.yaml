@@ -23,8 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Reconstruction": 
-        filters: ["3D", "Reconstruction"]
+        filters: ["3D Reconstruction"]
     "Diffusion":
-        filters: ["Stable Diffusion", "3D"]
+        filters: ["Stable Diffusion"]
     "NeRF":
         filters: ["NeRF"]
