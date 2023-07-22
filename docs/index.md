@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1318,7 +1318,7 @@ layout: default
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
-|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|**[link](https://github.com/uhhhci/immersive-ngp)**|
 |**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555](http://arxiv.org/abs/2307.09555)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
