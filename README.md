@@ -9,10 +9,28 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=#Reconstruction>Reconstruction</a></li>
     <li><a href=#Diffusion>Diffusion</a></li>
     <li><a href=#NeRF>NeRF</a></li>
   </ol>
 </details>
+
+## Reconstruction
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-19**|**3D track reconstruction of low-energy electrons in the MIGDAL low pressure optical time projection chamber**|Elizabeth Tilly et.al.|[2307.10477](http://arxiv.org/abs/2307.10477)|null|
+|**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555](http://arxiv.org/abs/2307.09555)|null|
+|**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112](http://arxiv.org/abs/2307.09112)|null|
+|**2023-07-16**|**Enforcing Topological Interaction between Implicit Surfaces via Uniform Sampling**|Hieu Le et.al.|[2307.08716](http://arxiv.org/abs/2307.08716)|null|
+|**2023-07-18**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz et.al.|[2307.08535](http://arxiv.org/abs/2307.08535)|null|
+|**2023-07-12**|**Sequential Experimental Design for X-Ray CT Using Deep Reinforcement Learning**|Tianyuan Wang et.al.|[2307.06343](http://arxiv.org/abs/2307.06343)|**[link](https://github.com/tianyuan1wang/seqanglerl)**|
+|**2023-07-13**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani et.al.|[2307.05832](http://arxiv.org/abs/2307.05832)|null|
+|**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange et.al.|[2307.05409](http://arxiv.org/abs/2307.05409)|null|
+|**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
+|**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
+
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## Diffusion
 
