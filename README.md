@@ -41,7 +41,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|null|
+|**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
+|**2023-07-25**|**Fashion Matrix: Editing Photos by Just Talking**|Zheng Chong et.al.|[2307.13240](http://arxiv.org/abs/2307.13240)|null|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|**[link](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model)**|
 |**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
 |**2023-07-25**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
 |**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864](http://arxiv.org/abs/2307.10864)|null|
