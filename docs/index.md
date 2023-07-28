@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-26**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/2d-to-3d-evolution-transfer)**|
+|**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/creative_birds)**|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
 |**2023-07-24**|**VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching**|Tica Lin et.al.|[2307.12539](http://arxiv.org/abs/2307.12539)|**[link](https://github.com/ticahere/vird-demo)**|
 |**2023-07-23**|**LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2307.12194](http://arxiv.org/abs/2307.12194)|null|
