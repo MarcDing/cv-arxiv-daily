@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.30
+## Updated on 2023.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Diffusion
 
@@ -53,14 +53,14 @@
 |**2023-07-22**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
 |**2023-07-18**|**Generative Visual Question Answering**|Ethan Shen et.al.|[2307.10405](http://arxiv.org/abs/2307.10405)|null|
 |**2023-07-19**|**Unmaking AI Imagemaking: A Methodological Toolkit for Critical Investigation**|Luke Munn et.al.|[2307.09753](http://arxiv.org/abs/2307.09753)|null|
-|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
+|**2023-07-27**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
 |**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283](http://arxiv.org/abs/2307.08283)|null|
 |**2023-07-16**|**Planting a SEED of Vision in Large Language Model**|Yuying Ge et.al.|[2307.08041](http://arxiv.org/abs/2307.08041)|**[link](https://github.com/ailab-cvc/seed)**|
 |**2023-07-16**|**Analysing Gender Bias in Text-to-Image Models using Object Detection**|Harvey Mannering et.al.|[2307.08025](http://arxiv.org/abs/2307.08025)|**[link](https://github.com/harveymannering/text-to-image-bias)**|
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## NeRF
 
@@ -86,7 +86,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
