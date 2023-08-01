@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440](http://arxiv.org/abs/2307.16440)|null|
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624](http://arxiv.org/abs/2307.14624)|null|
 |**2023-07-27**|**Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach**|Sandika Biswas et.al.|[2307.14570](http://arxiv.org/abs/2307.14570)|null|
 |**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/creative_birds)**|
@@ -37,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**Fashion Matrix: Editing Photos by Just Talking**|Zheng Chong et.al.|[2307.13240](http://arxiv.org/abs/2307.13240)|**[link](https://github.com/zheng-chong/fashionmatric)**|
 |**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|**[link](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model)**|
