@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134](http://arxiv.org/abs/2308.00134)|null|
+|**2023-07-21**|**Autonomous Electron Tomography Reconstruction with Machine Learning**|William Millsaps et.al.|[2308.00099](http://arxiv.org/abs/2308.00099)|null|
 |**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440](http://arxiv.org/abs/2307.16440)|null|
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624](http://arxiv.org/abs/2307.14624)|null|
 |**2023-07-27**|**Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach**|Sandika Biswas et.al.|[2307.14570](http://arxiv.org/abs/2307.14570)|null|
@@ -45,6 +47,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675](http://arxiv.org/abs/2308.00675)|null|
+|**2023-07-22**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
 |**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**Fashion Matrix: Editing Photos by Just Talking**|Zheng Chong et.al.|[2307.13240](http://arxiv.org/abs/2307.13240)|**[link](https://github.com/zheng-chong/fashionmatric)**|
@@ -68,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333](http://arxiv.org/abs/2307.15333)|null|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131](http://arxiv.org/abs/2307.15131)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|**[link](https://github.com/open-air-sun/mars)**|
