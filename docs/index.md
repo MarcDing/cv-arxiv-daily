@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -41,7 +41,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675](http://arxiv.org/abs/2308.00675)|null|
-|**2023-07-22**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
+|**2023-08-02**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
 |**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**Fashion Matrix: Editing Photos by Just Talking**|Zheng Chong et.al.|[2307.13240](http://arxiv.org/abs/2307.13240)|**[link](https://github.com/zheng-chong/fashionmatric)**|

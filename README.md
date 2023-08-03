@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,14 +41,14 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675](http://arxiv.org/abs/2308.00675)|null|
-|**2023-07-22**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
+|**2023-08-02**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
 |**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**Fashion Matrix: Editing Photos by Just Talking**|Zheng Chong et.al.|[2307.13240](http://arxiv.org/abs/2307.13240)|**[link](https://github.com/zheng-chong/fashionmatric)**|
@@ -66,7 +66,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## NeRF
 
@@ -95,7 +95,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
