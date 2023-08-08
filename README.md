@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492](http://arxiv.org/abs/2308.03492)|null|
 |**2023-08-04**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru et.al.|[2308.01854](http://arxiv.org/abs/2308.01854)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477](http://arxiv.org/abs/2308.01477)|null|
 |**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|null|
@@ -52,6 +53,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**|Zixuan Ni et.al.|[2308.02552](http://arxiv.org/abs/2308.02552)|null|
 |**2023-08-04**|**Painterly Image Harmonization using Diffusion Model**|Lingxiao Lu et.al.|[2308.02228](http://arxiv.org/abs/2308.02228)|**[link](https://github.com/bcmi/phdiffusion-painterly-image-harmonization)**|
 |**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546](http://arxiv.org/abs/2308.01546)|null|
 |**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
@@ -81,6 +83,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
+|**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
+|**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
+|**2023-08-05**|**NeRFs: The Search for the Best 3D Representation**|Ravi Ramamoorthi et.al.|[2308.02751](http://arxiv.org/abs/2308.02751)|null|
 |**2023-08-04**|**ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo**|Qiang Zhou et.al.|[2308.02191](http://arxiv.org/abs/2308.02191)|null|
 |**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262](http://arxiv.org/abs/2308.01262)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
 |**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773](http://arxiv.org/abs/2308.00773)|null|
