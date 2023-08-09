@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -46,7 +46,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-02**|**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**|Zixuan Ni et.al.|[2308.02552](http://arxiv.org/abs/2308.02552)|null|
+|**2023-08-08**|**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**|Zixuan Ni et.al.|[2308.02552](http://arxiv.org/abs/2308.02552)|null|
 |**2023-08-04**|**Painterly Image Harmonization using Diffusion Model**|Lingxiao Lu et.al.|[2308.02228](http://arxiv.org/abs/2308.02228)|**[link](https://github.com/bcmi/phdiffusion-painterly-image-harmonization)**|
 |**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546](http://arxiv.org/abs/2308.01546)|null|
 |**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
