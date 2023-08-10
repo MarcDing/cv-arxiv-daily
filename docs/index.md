@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**ACE-HetEM for ab initio Heterogenous Cryo-EM 3D Reconstruction**|Weijie Chen et.al.|[2308.04956](http://arxiv.org/abs/2308.04956)|null|
 |**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492](http://arxiv.org/abs/2308.03492)|null|
 |**2023-08-04**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru et.al.|[2308.01854](http://arxiv.org/abs/2308.01854)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477](http://arxiv.org/abs/2308.01477)|null|
@@ -46,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-08**|**FLIRT: Feedback Loop In-context Red Teaming**|Ninareh Mehrabi et.al.|[2308.04265](http://arxiv.org/abs/2308.04265)|null|
 |**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249](http://arxiv.org/abs/2308.04249)|**[link](https://github.com/reedonepeck/minddiffuser)**|
 |**2023-08-08**|**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**|Zixuan Ni et.al.|[2308.02552](http://arxiv.org/abs/2308.02552)|null|
@@ -76,6 +78,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
+|**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669](http://arxiv.org/abs/2308.04669)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
