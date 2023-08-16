@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -22,7 +22,7 @@ layout: default
 |**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492](http://arxiv.org/abs/2308.03492)|null|
 |**2023-08-04**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru et.al.|[2308.01854](http://arxiv.org/abs/2308.01854)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477](http://arxiv.org/abs/2308.01477)|null|
-|**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|null|
+|**2023-08-15**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|**[link](https://github.com/smlab-niser/tirtha-public)**|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-01**|**Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction**|Yufei Zhang et.al.|[2308.00799](http://arxiv.org/abs/2308.00799)|null|
 |**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134](http://arxiv.org/abs/2308.00134)|**[link](https://github.com/qingyuan-jiang/view_planning_3dhuman)**|
