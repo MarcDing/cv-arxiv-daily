@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
-|**2023-08-15**|**Deep Learning Framework for Spleen Volume Estimation from 2D Cross-sectional Views**|Zhen Yuan et.al.|[2308.08038](http://arxiv.org/abs/2308.08038)|null|
-|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-17**|**Deep Learning Framework for Spleen Volume Estimation from 2D Cross-sectional Views**|Zhen Yuan et.al.|[2308.08038](http://arxiv.org/abs/2308.08038)|null|
+|**2023-08-17**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
 |**2023-08-15**|**Multi-view 3D Face Reconstruction Based on Flame**|Wenzhuo Zheng et.al.|[2308.07551](http://arxiv.org/abs/2308.07551)|null|
 |**2023-08-14**|**A One Stop 3D Target Reconstruction and multilevel Segmentation Method**|Jiexiong Xu et.al.|[2308.06974](http://arxiv.org/abs/2308.06974)|**[link](https://github.com/ganlab/ostra)**|
@@ -57,7 +57,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
-|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
+|**2023-08-17**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
 |**2023-08-12**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-08**|**FLIRT: Feedback Loop In-context Red Teaming**|Ninareh Mehrabi et.al.|[2308.04265](http://arxiv.org/abs/2308.04265)|null|
 |**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249](http://arxiv.org/abs/2308.04249)|**[link](https://github.com/reedonepeck/minddiffuser)**|
@@ -89,7 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-16**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
+|**2023-08-17**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
