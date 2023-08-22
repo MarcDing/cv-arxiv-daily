@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -98,7 +98,7 @@ layout: default
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421](http://arxiv.org/abs/2308.09421)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386](http://arxiv.org/abs/2308.09386)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
-|**2023-08-17**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
+|**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
