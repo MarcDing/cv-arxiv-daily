@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction**|Sijia Jiang et.al.|[2308.11025](http://arxiv.org/abs/2308.11025)|**[link](https://github.com/machineperceptionlab/cq-nir)**|
 |**2023-08-19**|**Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos**|Yikai Wang et.al.|[2308.10089](http://arxiv.org/abs/2308.10089)|null|
 |**2023-08-19**|**TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo**|Zhenlong Yuan et.al.|[2308.09990](http://arxiv.org/abs/2308.09990)|null|
 |**2023-08-19**|**A Theory of Topological Derivatives for Inverse Rendering of Geometry**|Ishit Mehta et.al.|[2308.09865](http://arxiv.org/abs/2308.09865)|null|
@@ -65,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329](http://arxiv.org/abs/2308.11329)|null|
+|**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123](http://arxiv.org/abs/2308.11123)|null|
 |**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
 |**2023-08-19**|**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance**|Ernie Chu et.al.|[2308.10079](http://arxiv.org/abs/2308.10079)|null|
 |**2023-08-19**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991](http://arxiv.org/abs/2308.09991)|null|
@@ -103,6 +106,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
+|**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130](http://arxiv.org/abs/2308.11130)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
 |**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337](http://arxiv.org/abs/2308.10337)|null|
 |**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122](http://arxiv.org/abs/2308.10122)|null|
