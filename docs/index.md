@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -68,9 +68,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329](http://arxiv.org/abs/2308.11329)|null|
 |**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123](http://arxiv.org/abs/2308.11123)|null|
-|**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
+|**2023-08-23**|**Backdooring Textual Inversion for Concept Censorship**|Yutong Wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
 |**2023-08-19**|**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance**|Ernie Chu et.al.|[2308.10079](http://arxiv.org/abs/2308.10079)|null|
-|**2023-08-19**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991](http://arxiv.org/abs/2308.09991)|null|
+|**2023-08-23**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991](http://arxiv.org/abs/2308.09991)|**[link](https://github.com/superhero-7/altdiffuson)**|
 |**2023-08-19**|**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**|Xiaoyu Ye et.al.|[2308.09889](http://arxiv.org/abs/2308.09889)|null|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306](http://arxiv.org/abs/2308.09306)|null|
 |**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
