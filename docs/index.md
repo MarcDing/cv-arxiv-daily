@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -66,7 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-23**|**Manipulating Embeddings of Stable Diffusion Prompts**|Niklas Deckers et.al.|[2308.12059](http://arxiv.org/abs/2308.12059)|null|
+|**2023-08-23**|**Manipulating Embeddings of Stable Diffusion Prompts**|Niklas Deckers et.al.|[2308.12059](http://arxiv.org/abs/2308.12059)|**[link](https://github.com/webis-de/arxiv23-prompt-embedding-manipulation)**|
 |**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329](http://arxiv.org/abs/2308.11329)|null|
 |**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123](http://arxiv.org/abs/2308.11123)|null|
 |**2023-08-23**|**Backdooring Textual Inversion for Concept Censorship**|Yutong Wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
