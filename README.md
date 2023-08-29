@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713](http://arxiv.org/abs/2308.14713)|null|
+|**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078](http://arxiv.org/abs/2308.14078)|null|
+|**2023-08-27**|**Multi-plane denoising diffusion-based dimensionality expansion for 2D-to-3D reconstruction of microstructures with harmonized sampling**|Kang-Hyun Lee et.al.|[2308.14035](http://arxiv.org/abs/2308.14035)|null|
+|**2023-08-26**|**HoloPOCUS: Portable Mixed-Reality 3D Ultrasound Tracking, Reconstruction and Overlay**|Kian Wei Ng et.al.|[2308.13823](http://arxiv.org/abs/2308.13823)|null|
+|**2023-08-25**|**Textureless Deformable Surface Reconstruction with Invisible Markers**|Xinyuan Li et.al.|[2308.13678](http://arxiv.org/abs/2308.13678)|null|
 |**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452](http://arxiv.org/abs/2308.12452)|null|
 |**2023-08-21**|**Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction**|Sijia Jiang et.al.|[2308.11025](http://arxiv.org/abs/2308.11025)|**[link](https://github.com/machineperceptionlab/cq-nir)**|
 |**2023-08-19**|**Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos**|Yikai Wang et.al.|[2308.10089](http://arxiv.org/abs/2308.10089)|null|
@@ -74,6 +79,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469](http://arxiv.org/abs/2308.14469)|null|
+|**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078](http://arxiv.org/abs/2308.14078)|null|
 |**2023-08-25**|**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**|Tianyi Zhang et.al.|[2308.13142](http://arxiv.org/abs/2308.13142)|null|
 |**2023-08-24**|**Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights using Generative AI**|Yuqian Sun et.al.|[2308.12915](http://arxiv.org/abs/2308.12915)|null|
 |**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605](http://arxiv.org/abs/2308.12605)|null|
@@ -121,6 +128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
 |**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
