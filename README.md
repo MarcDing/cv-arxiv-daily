@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|null|
+|**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997](http://arxiv.org/abs/2309.02997)|null|
+|**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-09-05**|**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**|Zhenghong Zhou et.al.|[2309.02318](http://arxiv.org/abs/2309.02318)|null|
@@ -87,6 +90,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
 |**2023-09-04**|**Softmax Bias Correction for Quantized Generative Models**|Nilesh Prasad Pandey et.al.|[2309.01729](http://arxiv.org/abs/2309.01729)|null|
 |**2023-09-04**|**Concepts is All You Need: A More Direct Path to AGI**|Peter Voss et.al.|[2309.01622](http://arxiv.org/abs/2309.01622)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
@@ -145,6 +149,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
