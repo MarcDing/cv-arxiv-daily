@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**A Food Package Recognition and Sorting System Based on Structured Light and Deep Learning**|Xuanzhi Liu et.al.|[2309.03704](http://arxiv.org/abs/2309.03704)|null|
+|**2023-09-06**|**SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**|Nivetha Jayakumar et.al.|[2309.03335](http://arxiv.org/abs/2309.03335)|null|
 |**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|null|
 |**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997](http://arxiv.org/abs/2309.02997)|null|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
@@ -149,8 +151,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
-|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
