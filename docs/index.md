@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**High-fidelity 3D Reconstruction of Solar Coronal Physics with the Updated CROBAR Method**|Joseph Plowman et.al.|[2309.08053](http://arxiv.org/abs/2309.08053)|null|
 |**2023-09-13**|**Exploiting Multiple Priors for Neural 3D Indoor Reconstruction**|Federico Lincetto et.al.|[2309.07021](http://arxiv.org/abs/2309.07021)|null|
 |**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313](http://arxiv.org/abs/2309.06313)|null|
 |**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349](http://arxiv.org/abs/2309.05349)|null|
@@ -89,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986](http://arxiv.org/abs/2309.07986)|null|
+|**2023-09-14**|**Text-to-Image Models for Counterfactual Explanations: a Black-Box Approach**|Guillaume Jeanneret et.al.|[2309.07944](http://arxiv.org/abs/2309.07944)|null|
 |**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895](http://arxiv.org/abs/2309.06895)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
 |**2023-09-12**|**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**|Zhi-Yi Chin et.al.|[2309.06135](http://arxiv.org/abs/2309.06135)|null|
@@ -152,6 +155,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
+|**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
