@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-18**|**Improving Neural Indoor Surface Reconstruction with Mask-Guided Adaptive Consistency Constraints**|Xinyi Yu et.al.|[2309.09739](http://arxiv.org/abs/2309.09739)|null|
 |**2023-09-18**|**Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering**|Chi Zhang et.al.|[2309.09724](http://arxiv.org/abs/2309.09724)|null|
 |**2023-09-17**|**Uncertainty-aware 3D Object-Level Mapping with Deep Shape Priors**|Ziwei Liao et.al.|[2309.09118](http://arxiv.org/abs/2309.09118)|null|
@@ -93,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556](http://arxiv.org/abs/2309.10556)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2023-09-15**|**Biased Attention: Do Vision Transformers Amplify Gender Bias More than Convolutional Neural Networks?**|Abhishek Mandal et.al.|[2309.08760](http://arxiv.org/abs/2309.08760)|**[link](https://github.com/aibhishek/Biased-Attention)**|
 |**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986](http://arxiv.org/abs/2309.07986)|null|
 |**2023-09-14**|**Text-to-Image Models for Counterfactual Explanations: a Black-Box Approach**|Guillaume Jeanneret et.al.|[2309.07944](http://arxiv.org/abs/2309.07944)|null|
@@ -159,6 +161,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
+|**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
+|**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
 |**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502](http://arxiv.org/abs/2309.09502)|null|
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
