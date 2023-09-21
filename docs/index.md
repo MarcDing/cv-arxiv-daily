@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|null|
+|**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896](http://arxiv.org/abs/2309.10896)|null|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-18**|**Improving Neural Indoor Surface Reconstruction with Mask-Guided Adaptive Consistency Constraints**|Xinyi Yu et.al.|[2309.09739](http://arxiv.org/abs/2309.09739)|null|
 |**2023-09-18**|**Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering**|Chi Zhang et.al.|[2309.09724](http://arxiv.org/abs/2309.09724)|null|
@@ -94,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556](http://arxiv.org/abs/2309.10556)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2023-09-15**|**Biased Attention: Do Vision Transformers Amplify Gender Bias More than Convolutional Neural Networks?**|Abhishek Mandal et.al.|[2309.08760](http://arxiv.org/abs/2309.08760)|**[link](https://github.com/aibhishek/Biased-Attention)**|
 |**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986](http://arxiv.org/abs/2309.07986)|null|
@@ -161,6 +164,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
