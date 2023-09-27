@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
+|**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865](http://arxiv.org/abs/2309.14865)|null|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
+|**2023-09-24**|**Deep learning based workflow for accelerated industrial X-ray Computed Tomography**|Obaidullah Rahman et.al.|[2309.14371](http://arxiv.org/abs/2309.14371)|null|
 |**2023-09-23**|**MP-MVS: Multi-Scale Windows PatchMatch and Planar Prior Multi-View Stereo**|Rongxuan Tan et.al.|[2309.13294](http://arxiv.org/abs/2309.13294)|**[link](https://github.com/rongxuantan/mp-mvs)**|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-25**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
@@ -98,6 +102,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859](http://arxiv.org/abs/2309.14859)|**[link](https://github.com/kohakublueleaf/lycoris)**|
+|**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756](http://arxiv.org/abs/2309.14756)|null|
+|**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751](http://arxiv.org/abs/2309.14751)|null|
 |**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-22**|**Zero-Shot Object Counting with Language-Vision Models**|Jingyi Xu et.al.|[2309.13097](http://arxiv.org/abs/2309.13097)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
@@ -169,6 +176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010](http://arxiv.org/abs/2309.14010)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607](http://arxiv.org/abs/2309.13607)|null|
