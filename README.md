@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Effect of structure-based training on 3D localization precision and quality**|Armin Abdehkakha et.al.|[2309.17265](http://arxiv.org/abs/2309.17265)|null|
+|**2023-09-28**|**Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper**|Hong-Bin Yang et.al.|[2309.16850](http://arxiv.org/abs/2309.16850)|null|
 |**2023-09-28**|**HyperLISTA-ABT: An Ultra-light Unfolded Network for Accurate Multi-component Differential Tomographic SAR Inversion**|Kun Qian et.al.|[2309.16468](http://arxiv.org/abs/2309.16468)|null|
 |**2023-09-29**|**3D Reconstruction with Generalizable Neural Fields using Scene Priors**|Yang Fu et.al.|[2309.15164](http://arxiv.org/abs/2309.15164)|null|
 |**2023-09-26**|**Combining optical diffraction tomography with imaging flow cytometry for characterizing morphology, hemoglobin content, and membrane deformability of live red blood cells**|Yu-Hsiang Chang et.al.|[2309.15131](http://arxiv.org/abs/2309.15131)|null|
@@ -112,6 +114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
+|**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952](http://arxiv.org/abs/2309.16952)|null|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
 |**2023-09-28**|**QonFusion -- Quantum Approaches to Gaussian Random Variables: Applications in Stable Diffusion and Brownian Motion**|Shlomo Kashani et.al.|[2309.16258](http://arxiv.org/abs/2309.16258)|**[link](https://github.com/BoltzmannEntropy/QonFusion)**|
 |**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664](http://arxiv.org/abs/2309.15664)|**[link](https://github.com/wangkai930418/DPL)**|
@@ -191,6 +195,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
+|**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
+|**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
+|**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859](http://arxiv.org/abs/2309.16859)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
 |**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364](http://arxiv.org/abs/2309.16364)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
