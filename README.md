@@ -117,6 +117,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
+|**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426](http://arxiv.org/abs/2310.02426)|null|
 |**2023-10-02**|**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**|Yongchan Kwon et.al.|[2310.00902](http://arxiv.org/abs/2310.00902)|**[link](https://github.com/ykwon0407/datainf)**|
 |**2023-10-01**|**Completing Visual Objects via Bridging Generation and Segmentation**|Xiang Li et.al.|[2310.00808](http://arxiv.org/abs/2310.00808)|null|
 |**2023-10-01**|**Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation**|Jiancheng Huang et.al.|[2310.00546](http://arxiv.org/abs/2310.00546)|null|
@@ -202,6 +204,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
