@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -110,7 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-02**|**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**|Yongchan Kwon et.al.|[2310.00902](http://arxiv.org/abs/2310.00902)|null|
+|**2023-10-02**|**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**|Yongchan Kwon et.al.|[2310.00902](http://arxiv.org/abs/2310.00902)|**[link](https://github.com/ykwon0407/datainf)**|
 |**2023-10-01**|**Completing Visual Objects via Bridging Generation and Segmentation**|Xiang Li et.al.|[2310.00808](http://arxiv.org/abs/2310.00808)|null|
 |**2023-10-01**|**Seal2Real: Prompt Prior Learning on Diffusion Model for Unsupervised Document Seal Data Generation and Realisation**|Jiancheng Huang et.al.|[2310.00546](http://arxiv.org/abs/2310.00546)|null|
 |**2023-09-30**|**PixArt- $α$ : Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis**|Junsong Chen et.al.|[2310.00426](http://arxiv.org/abs/2310.00426)|null|
