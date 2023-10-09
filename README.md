@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Towards Non-contact 3D Ultrasound for Wrist Imaging**|Antony Jerald et.al.|[2310.04296](http://arxiv.org/abs/2310.04296)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530](http://arxiv.org/abs/2310.00530)|null|
 |**2023-09-29**|**3D Reconstruction in Noisy Agricultural Environments: A Bayesian Optimization Perspective for View Planning**|Athanasios Bacharis et.al.|[2310.00145](http://arxiv.org/abs/2310.00145)|null|
@@ -117,6 +118,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
 |**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426](http://arxiv.org/abs/2310.02426)|null|
 |**2023-10-02**|**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**|Yongchan Kwon et.al.|[2310.00902](http://arxiv.org/abs/2310.00902)|**[link](https://github.com/ykwon0407/datainf)**|
@@ -204,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
@@ -211,7 +214,7 @@
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
-|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
