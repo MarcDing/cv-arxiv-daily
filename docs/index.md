@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction**|Pol Caselles et.al.|[2310.08784](http://arxiv.org/abs/2310.08784)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092](http://arxiv.org/abs/2310.08092)|null|
 |**2023-10-12**|**RT-SRTS: Angle-Agnostic Real-Time Simultaneous 3D Reconstruction and Tumor Segmentation from Single X-Ray Projection**|Miao Zhu et.al.|[2310.08080](http://arxiv.org/abs/2310.08080)|null|
@@ -117,6 +118,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247](http://arxiv.org/abs/2310.09247)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
 |**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543](http://arxiv.org/abs/2310.08543)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
