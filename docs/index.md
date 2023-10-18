@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-16**|**In-Situ Single Particle Reconstruction Reveals 3D Evolution of PtNi Nanocatalysts During Heating**|Yi-Chi Wang et.al.|[2310.10253](http://arxiv.org/abs/2310.10253)|null|
-|**2023-10-16**|**Long-term Dependency for 3D Reconstruction of Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2310.10248](http://arxiv.org/abs/2310.10248)|null|
+|**2023-10-16**|**Long-term Dependency for 3D Reconstruction of Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2310.10248](http://arxiv.org/abs/2310.10248)|**[link](https://github.com/ucl-candi/freehand)**|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956](http://arxiv.org/abs/2310.09956)|null|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
@@ -124,7 +124,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644](http://arxiv.org/abs/2310.10644)|null|
-|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|**[link](https://github.com/hazel1994/vipe)**|
 |**2023-10-16**|**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**|Yu-Lin Tsai et.al.|[2310.10012](http://arxiv.org/abs/2310.10012)|null|
 |**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247](http://arxiv.org/abs/2310.09247)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
@@ -223,7 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
