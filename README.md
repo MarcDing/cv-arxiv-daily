@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130](http://arxiv.org/abs/2310.15130)|**[link](https://github.com/apple/ml-nvas3d)**|
+|**2023-10-23**|**Interaction-Driven Active 3D Reconstruction with Object Interiors**|Zihao Yan et.al.|[2310.14700](http://arxiv.org/abs/2310.14700)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
+|**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364](http://arxiv.org/abs/2310.14364)|null|
 |**2023-10-20**|**Single-view 3D reconstruction via inverse procedural modeling**|Albert Garifullin et.al.|[2310.13373](http://arxiv.org/abs/2310.13373)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-10-19**|**Real space iterative reconstruction for vector tomography (RESIRE-V)**|Minh Pham et.al.|[2310.12513](http://arxiv.org/abs/2310.12513)|**[link](https://github.com/minhpham0309/resire-v)**|
@@ -136,6 +140,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804](http://arxiv.org/abs/2310.14804)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
+|**2023-10-23**|**$Λ$ -Split: A Privacy-Preserving Split Computing Framework for Cloud-Powered Generative AI**|Shoki Ohta et.al.|[2310.14651](http://arxiv.org/abs/2310.14651)|**[link](https://github.com/nishio-laboratory/lambda_split)**|
+|**2023-10-20**|**Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models**|Shawn Shan et.al.|[2310.13828](http://arxiv.org/abs/2310.13828)|null|
+|**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
 |**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
 |**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583](http://arxiv.org/abs/2310.12583)|null|
 |**2023-10-19**|**SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation**|Chongyu Fan et.al.|[2310.12508](http://arxiv.org/abs/2310.12508)|**[link](https://github.com/optml-group/unlearn-saliency)**|
@@ -242,6 +251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
