@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**DEFN: Dual-Encoder Fourier Group Harmonics Network for Three-Dimensional Macular Hole Reconstruction with Stochastic Retinal Defect Augmentation and Dynamic Weight Composition**|Xingru Huang et.al.|[2311.00483](http://arxiv.org/abs/2311.00483)|**[link](https://github.com/iipl-hangzhoudianziuniversity/defn-pytorch)**|
+|**2023-11-01**|**Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture**|Yixin Chen et.al.|[2311.00457](http://arxiv.org/abs/2311.00457)|null|
+|**2023-10-31**|**Deep Compressed Learning for 3D Seismic Inversion**|Maayan Gelboim et.al.|[2311.00107](http://arxiv.org/abs/2311.00107)|null|
 |**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang et.al.|[2310.20117](http://arxiv.org/abs/2310.20117)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188](http://arxiv.org/abs/2310.19188)|null|
 |**2023-10-27**|**Understanding the effect of curvature on the magnetization reversal of three-dimensional nanohelices**|John Fullerton et.al.|[2310.18456](http://arxiv.org/abs/2310.18456)|null|
@@ -137,6 +140,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
+|**2023-10-31**|**Diversity and Diffusion: Observations on Synthetic Image Distributions with Stable Diffusion**|David Marwood et.al.|[2311.00056](http://arxiv.org/abs/2311.00056)|null|
 |**2023-10-30**|**Addressing Weak Decision Boundaries in Image Classification by Leveraging Web Search and Generative Models**|Preetam Prabhu Srikar Dammu et.al.|[2310.19986](http://arxiv.org/abs/2310.19986)|null|
 |**2023-10-30**|**'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion**|Sourojit Ghosh et.al.|[2310.19981](http://arxiv.org/abs/2310.19981)|null|
 |**2023-10-30**|**Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**|Micah Goldblum et.al.|[2310.19909](http://arxiv.org/abs/2310.19909)|**[link](https://github.com/hsouri/battle-of-the-backbones)**|
