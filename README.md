@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
+|**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun et.al.|[2311.06659](http://arxiv.org/abs/2311.06659)|null|
 |**2023-11-09**|**Liquid phase fast electron tomography unravels the true 3D structure of colloidal assemblies**|Daniel Arenas Esteban et.al.|[2311.05309](http://arxiv.org/abs/2311.05309)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230](http://arxiv.org/abs/2311.05230)|null|
 |**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999](http://arxiv.org/abs/2311.04999)|null|
@@ -159,6 +161,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-12**|**BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis**|Tingfeng Cao et.al.|[2311.06752](http://arxiv.org/abs/2311.06752)|null|
+|**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343](http://arxiv.org/abs/2311.02343)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
 |**2023-11-02**|**VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning**|Hong Chen et.al.|[2311.00990](http://arxiv.org/abs/2311.00990)|null|
@@ -292,6 +296,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
+|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
