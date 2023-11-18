@@ -157,7 +157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/victoria-project/mam-e)**|
+|**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
 |**2023-11-15**|**Privacy Threats in Stable Diffusion Models**|Thomas Cilloni et.al.|[2311.09355](http://arxiv.org/abs/2311.09355)|null|
 |**2023-11-15**|**Fast Detection of Phase Transitions with Multi-Task Learning-by-Confusion**|Julian Arnold et.al.|[2311.09128](http://arxiv.org/abs/2311.09128)|null|
 |**2023-11-12**|**BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis**|Tingfeng Cao et.al.|[2311.06752](http://arxiv.org/abs/2311.06752)|null|
