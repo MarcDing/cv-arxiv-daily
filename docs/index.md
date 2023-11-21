@@ -14,9 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024](http://arxiv.org/abs/2311.12024)|null|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
+|**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171](http://arxiv.org/abs/2311.11171)|null|
+|**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes et.al.|[2311.11130](http://arxiv.org/abs/2311.11130)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|null|
 |**2023-11-16**|**Collection, Collation, and Comparison of 3D Coronal CME Reconstructions**|C. Kay et.al.|[2311.10712](http://arxiv.org/abs/2311.10712)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919](http://arxiv.org/abs/2311.09919)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159](http://arxiv.org/abs/2311.08159)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun et.al.|[2311.06659](http://arxiv.org/abs/2311.06659)|null|
@@ -158,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
+|**2023-11-18**|**Improving Adversarial Transferability by Stable Diffusion**|Jiayang Liu et.al.|[2311.11017](http://arxiv.org/abs/2311.11017)|null|
 |**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242](http://arxiv.org/abs/2311.10242)|null|
 |**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
 |**2023-11-15**|**Privacy Threats in Stable Diffusion Models**|Thomas Cilloni et.al.|[2311.09355](http://arxiv.org/abs/2311.09355)|null|
@@ -295,8 +302,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
+|**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|null|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
