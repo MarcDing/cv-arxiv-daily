@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741](http://arxiv.org/abs/2312.06741)|null|
+|**2023-12-10**|**UNeR3D: Versatile and Scalable 3D RGB Point Cloud Generation from 2D Images in Unsupervised Reconstruction**|Hongbin Lin et.al.|[2312.06706](http://arxiv.org/abs/2312.06706)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-09**|**Light detection and Cosmic Rejection in the ICARUS LArTPC at Fermilab**|Anna Heggestuen et.al.|[2312.05684](http://arxiv.org/abs/2312.05684)|null|
 |**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283](http://arxiv.org/abs/2312.05283)|null|
@@ -209,6 +211,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**A Unified Sampling Framework for Solver Searching of Diffusion Probabilistic Models**|Enshu Liu et.al.|[2312.07243](http://arxiv.org/abs/2312.07243)|null|
+|**2023-12-12**|**On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images**|Gauri Bhardwaj et.al.|[2312.06979](http://arxiv.org/abs/2312.06979)|null|
+|**2023-12-12**|**LoRA-Enhanced Distillation on Guided Diffusion Models**|Pareesa Ameneh Golnari et.al.|[2312.06899](http://arxiv.org/abs/2312.06899)|null|
+|**2023-12-11**|**User Friendly and Adaptable Discriminative AI: Using the Lessons from the Success of LLMs and Image Generation Models**|Son The Nguyen et.al.|[2312.06826](http://arxiv.org/abs/2312.06826)|null|
 |**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607](http://arxiv.org/abs/2312.06607)|**[link](https://github.com/lewandofskee/DiAD)**|
 |**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573](http://arxiv.org/abs/2312.06573)|**[link](https://github.com/vislearn/ControlNet-XS)**|
 |**2023-12-11**|**CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models**|Tuna Han Salih Meral et.al.|[2312.06059](http://arxiv.org/abs/2312.06059)|null|
@@ -404,6 +410,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
