@@ -227,7 +227,7 @@
 |**2023-12-13**|**SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models**|Weilong Chai et.al.|[2312.08887](http://arxiv.org/abs/2312.08887)|null|
 |**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
 |**2023-12-14**|**UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation**|Zexiang Liu et.al.|[2312.08754](http://arxiv.org/abs/2312.08754)|null|
-|**2023-12-13**|**EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment**|Mykola Lavreniuk et.al.|[2312.08548](http://arxiv.org/abs/2312.08548)|**[link](https://github.com/lavreniuk/evp)**|
+|**2023-12-13**|**EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment**|Mykola Lavreniuk et.al.|[2312.08548](http://arxiv.org/abs/2312.08548)|null|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|null|
 |**2023-12-14**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048](http://arxiv.org/abs/2312.08048)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
 |**2023-12-13**|**Semantic-aware Data Augmentation for Text-to-image Synthesis**|Zhaorui Tan et.al.|[2312.07951](http://arxiv.org/abs/2312.07951)|null|
