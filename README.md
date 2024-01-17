@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134](http://arxiv.org/abs/2401.08134)|null|
 |**2024-01-12**|**3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image**|Junuk Cha et.al.|[2401.06415](http://arxiv.org/abs/2401.06415)|null|
 |**2024-01-12**|**SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization**|Zhenlong Yuan et.al.|[2401.06385](http://arxiv.org/abs/2401.06385)|null|
 |**2024-01-12**|**Surgical-DINO: Adapter Learning of Foundation Models for Depth Estimation in Endoscopic Surgery**|Beilei Cui et.al.|[2401.06013](http://arxiv.org/abs/2401.06013)|**[link](https://github.com/beileicui/surgicaldino)**|
@@ -249,6 +250,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199](http://arxiv.org/abs/2401.08199)|null|
+|**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
+|**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049](http://arxiv.org/abs/2401.07049)|null|
 |**2024-01-10**|**AI Art is Theft: Labour, Extraction, and Exploitation, Or, On the Dangers of Stochastic Pollocks**|Trystan S. Goetze et.al.|[2401.06178](http://arxiv.org/abs/2401.06178)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
 |**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
@@ -491,6 +495,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935](http://arxiv.org/abs/2401.07935)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
