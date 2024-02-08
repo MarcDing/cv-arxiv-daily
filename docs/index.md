@@ -274,6 +274,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**On the Mathematical foundations of Diffusion Monte Carlo**|Michel Caffarel et.al.|[2402.04642](http://arxiv.org/abs/2402.04642)|null|
+|**2024-02-07**|**Domain Bridge: Generative model-based domain forensic for black-box models**|Jiyi Zhang et.al.|[2402.04640](http://arxiv.org/abs/2402.04640)|null|
+|**2024-02-06**|**Detection Transformer for Teeth Detection, Segmentation, and Numbering in Oral Rare Diseases: Focus on Data Augmentation and Inpainting Techniques**|Hocine Kadi et.al.|[2402.04408](http://arxiv.org/abs/2402.04408)|null|
 |**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
 |**2024-02-05**|**An Inpainting-Infused Pipeline for Attire and Background Replacement**|Felipe Rodrigues Perche-Mahlow et.al.|[2402.03501](http://arxiv.org/abs/2402.03501)|null|
 |**2024-02-01**|**AI-generated faces free from racial and gender stereotypes**|Nouar AlDahoul et.al.|[2402.01002](http://arxiv.org/abs/2402.01002)|**[link](https://github.com/comnetsad/ai-generated-faces)**|
@@ -539,6 +542,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
