@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
@@ -281,6 +282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Control Color: Multimodal Diffusion-based Interactive Image Colorization**|Zhexin Liang et.al.|[2402.10855](http://arxiv.org/abs/2402.10855)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208](http://arxiv.org/abs/2402.10208)|**[link](https://github.com/eliahuhorwitz/Spectral-DeTuning)**|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
@@ -559,6 +561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
