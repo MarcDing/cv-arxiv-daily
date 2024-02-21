@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712](http://arxiv.org/abs/2402.12712)|null|
 |**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
 |**2024-02-17**|**DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model**|Yu Feng et.al.|[2402.11241](http://arxiv.org/abs/2402.11241)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
-|**2024-02-13**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
+|**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
 |**2024-02-07**|**Carousel phase retrieval algorithm for 3D coherent X-ray diffraction imaging**|Fangzhou Ai et.al.|[2402.05283](http://arxiv.org/abs/2402.05283)|**[link](https://github.com/UCSD-CEM/Carousel-Phase-Retrieval-Algorithm)**|
 |**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908](http://arxiv.org/abs/2402.03908)|null|
@@ -285,6 +286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**|Sen Li et.al.|[2402.12741](http://arxiv.org/abs/2402.12741)|**[link](https://github.com/measure-infinity/mulan-code)**|
 |**2024-02-17**|**On Good Practices for Task-Specific Distillation of Large Pretrained Models**|Juliette Marrie et.al.|[2402.11305](http://arxiv.org/abs/2402.11305)|null|
 |**2024-02-16**|**Control Color: Multimodal Diffusion-based Interactive Image Colorization**|Zhexin Liang et.al.|[2402.10855](http://arxiv.org/abs/2402.10855)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
@@ -565,6 +567,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255](http://arxiv.org/abs/2402.13255)|null|
+|**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252](http://arxiv.org/abs/2402.13252)|**[link](https://github.com/nemo1999/joint-tensorf)**|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
+|**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792](http://arxiv.org/abs/2402.12792)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
