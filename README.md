@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115](http://arxiv.org/abs/2402.17115)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction**|Xiao Chen et.al.|[2402.16174](http://arxiv.org/abs/2402.16174)|null|
 |**2024-02-24**|**A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation**|Yilin Zheng et.al.|[2402.15815](http://arxiv.org/abs/2402.15815)|null|
@@ -299,6 +301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al.|[2402.17323](http://arxiv.org/abs/2402.17323)|null|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
 |**2024-02-23**|**BSPA: Exploring Black-box Stealthy Prompt Attacks against Image Generators**|Yu Tian et.al.|[2402.15218](http://arxiv.org/abs/2402.15218)|null|
 |**2024-02-25**|**Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening**|Zhenrong Shen et.al.|[2402.14707](http://arxiv.org/abs/2402.14707)|null|
@@ -588,6 +591,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
+|**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364](http://arxiv.org/abs/2402.17364)|**[link](https://github.com/zhangzc21/dyntet)**|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115](http://arxiv.org/abs/2402.17115)|null|
+|**2024-02-26**|**Disentangled 3D Scene Generation with Layout Learning**|Dave Epstein et.al.|[2402.16936](http://arxiv.org/abs/2402.16936)|null|
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407](http://arxiv.org/abs/2402.16407)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
