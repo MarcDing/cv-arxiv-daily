@@ -307,8 +307,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-05**|**Bias in Generative AI**|Mi Zhou et.al.|[2403.02726](http://arxiv.org/abs/2403.02726)|null|
-|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|null|
+|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|**[link](https://github.com/bytedance/res-adapter)**|
 |**2024-03-04**|**Towards A Diffractive Analysis of Prompt-Based Generative AI**|Nina Rajcic et.al.|[2403.01783](http://arxiv.org/abs/2403.01783)|null|
 |**2024-03-03**|**Critical windows: non-asymptotic theory for feature emergence in diffusion models**|Marvin Li et.al.|[2403.01633](http://arxiv.org/abs/2403.01633)|null|
 |**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505](http://arxiv.org/abs/2403.01505)|null|
@@ -606,6 +607,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
+|**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
