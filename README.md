@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-03-05**|**Pooling Image Datasets With Multiple Covariate Shift and Imbalance**|Sotirios Panagiotis Chytas et.al.|[2403.02598](http://arxiv.org/abs/2403.02598)|null|
 |**2024-03-04**|**TripoSR: Fast 3D Object Reconstruction from a Single Image**|Dmitry Tochilkin et.al.|[2403.02151](http://arxiv.org/abs/2403.02151)|**[link](https://github.com/vast-ai-research/triposr)**|
 |**2024-03-03**|**A Novel Dynamic Light-Section 3D Reconstruction Method for Wide-Range Sensing**|Mengjuan Chen et.al.|[2403.01374](http://arxiv.org/abs/2403.01374)|null|
-|**2024-03-08**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy et.al.|[2403.00939](http://arxiv.org/abs/2403.00939)|null|
+|**2024-03-08**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy et.al.|[2403.00939](http://arxiv.org/abs/2403.00939)|**[link](https://github.com/preddy5/g3dr)**|
 |**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228](http://arxiv.org/abs/2403.00228)|null|
 |**2024-03-05**|**VEnvision3D: A Synthetic Perception Dataset for 3D Multi-Task Model Research**|Jiahao Zhou et.al.|[2402.19059](http://arxiv.org/abs/2402.19059)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
@@ -307,7 +307,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## Diffusion
 
@@ -315,8 +315,8 @@
 |---|---|---|---|---|
 |**2024-03-12**|**Premonition: Using Generative Models to Preempt Future Data Changes in Continual Learning**|Mark D. McDonnell et.al.|[2403.07356](http://arxiv.org/abs/2403.07356)|null|
 |**2024-03-11**|**Boosting Image Restoration via Priors from Pre-trained Models**|Xiaogang Xu et.al.|[2403.06793](http://arxiv.org/abs/2403.06793)|null|
-|**2024-03-11**|**Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation**|Guangyang Wu et.al.|[2403.06452](http://arxiv.org/abs/2403.06452)|null|
-|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-13**|**Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation**|Guangyang Wu et.al.|[2403.06452](http://arxiv.org/abs/2403.06452)|null|
+|**2024-03-13**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
 |**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090](http://arxiv.org/abs/2403.06090)|null|
 |**2024-03-09**|**Privacy-Preserving Diffusion Model Using Homomorphic Encryption**|Yaojian Chen et.al.|[2403.05794](http://arxiv.org/abs/2403.05794)|null|
 |**2024-03-08**|**Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation**|Yifan Mao et.al.|[2403.05056](http://arxiv.org/abs/2403.05056)|**[link](https://github.com/hitcslj/ssd)**|
@@ -619,7 +619,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## NeRF
 
@@ -628,9 +628,9 @@
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505](http://arxiv.org/abs/2403.06505)|null|
-|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-13**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
 |**2024-03-10**|**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**|Hanxin Zhu et.al.|[2403.06092](http://arxiv.org/abs/2403.06092)|null|
-|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|**[link](https://github.com/vision-sjtu/lightning-nerf)**|
 |**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783](http://arxiv.org/abs/2403.05783)|null|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
@@ -1065,7 +1065,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
