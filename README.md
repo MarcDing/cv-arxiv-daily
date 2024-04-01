@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-03-28**|**Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction**|Xiaoyang Lyu et.al.|[2403.19314](http://arxiv.org/abs/2403.19314)|**[link](https://github.com/cvmi-lab/total-decom)**|
 |**2024-03-28**|**Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips**|Beerend G. A. Gerats et.al.|[2403.19265](http://arxiv.org/abs/2403.19265)|null|
 |**2024-03-27**|**WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion**|Khiem Vuong et.al.|[2403.19022](http://arxiv.org/abs/2403.19022)|null|
-|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
+|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**|Jiahao Luo et.al.|[2403.18784](http://arxiv.org/abs/2403.18784)|null|
 |**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776](http://arxiv.org/abs/2403.18776)|**[link](https://github.com/cyiyoo/bliss)**|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
@@ -351,7 +351,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 ## Diffusion
 
@@ -687,7 +687,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 ## NeRF
 
@@ -697,7 +697,7 @@
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
-|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
+|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898](http://arxiv.org/abs/2403.17898)|null|
@@ -1193,7 +1193,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
