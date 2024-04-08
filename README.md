@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
-|**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|null|
+|**2024-04-05**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|**[link](https://github.com/adonis-galaxy/wordepth)**|
 |**2024-04-04**|**Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View**|Andreea Dogaru et.al.|[2404.03421](http://arxiv.org/abs/2404.03421)|null|
 |**2024-04-03**|**Behind the Veil: Enhanced Indoor 3D Scene Reconstruction with Occluded Surfaces Completion**|Su Sun et.al.|[2404.03070](http://arxiv.org/abs/2404.03070)|null|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
@@ -368,7 +368,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## Diffusion
 
@@ -381,7 +381,7 @@
 |**2024-04-02**|**Release of Pre-Trained Models for the Japanese Language**|Kei Sawada et.al.|[2404.01657](http://arxiv.org/abs/2404.01657)|null|
 |**2024-04-01**|**Measuring Style Similarity in Diffusion Models**|Gowthami Somepalli et.al.|[2404.01292](http://arxiv.org/abs/2404.01292)|**[link](https://github.com/learn2phoenix/csd)**|
 |**2024-04-01**|**Evaluating Text-to-Visual Generation with Image-to-Text Generation**|Zhiqiu Lin et.al.|[2404.01291](http://arxiv.org/abs/2404.01291)|**[link](https://github.com/linzhiqiu/t2i_metrics)**|
-|**2024-04-02**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/abs/2404.01112)|null|
+|**2024-04-04**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/abs/2404.01112)|null|
 |**2024-04-01**|**Stale Diffusion: Hyper-realistic 5D Movie Generation Using Old-school Methods**|Joao F. Henriques et.al.|[2404.01079](http://arxiv.org/abs/2404.01079)|null|
 |**2024-04-01**|**Towards Memorization-Free Diffusion Models**|Chen Chen et.al.|[2404.00922](http://arxiv.org/abs/2404.00922)|null|
 |**2024-03-31**|**Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization**|Mainak Singha et.al.|[2404.00710](http://arxiv.org/abs/2404.00710)|null|
@@ -719,7 +719,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## NeRF
 
@@ -1252,7 +1252,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
