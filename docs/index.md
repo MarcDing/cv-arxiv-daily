@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -379,7 +379,7 @@ layout: default
 |**2024-04-08**|**Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding**|Junseo Park et.al.|[2404.05256](http://arxiv.org/abs/2404.05256)|null|
 |**2024-04-07**|**Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models**|Zijin Yang et.al.|[2404.04956](http://arxiv.org/abs/2404.04956)|null|
 |**2024-04-06**|**InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization**|Xiefan Guo et.al.|[2404.04650](http://arxiv.org/abs/2404.04650)|**[link](https://github.com/xiefan-guo/initno)**|
-|**2024-04-04**|**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**|Vishaal Udandarao et.al.|[2404.04125](http://arxiv.org/abs/2404.04125)|**[link](https://github.com/bethgelab/frequency_determines_performance)**|
+|**2024-04-08**|**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**|Vishaal Udandarao et.al.|[2404.04125](http://arxiv.org/abs/2404.04125)|**[link](https://github.com/bethgelab/frequency_determines_performance)**|
 |**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
 |**2024-04-04**|**Would Deep Generative Models Amplify Bias in Future Models?**|Tianwei Chen et.al.|[2404.03242](http://arxiv.org/abs/2404.03242)|null|
 |**2024-04-03**|**Many-to-many Image Generation with Auto-regressive Diffusion Models**|Ying Shen et.al.|[2404.03109](http://arxiv.org/abs/2404.03109)|null|
@@ -736,7 +736,7 @@ layout: default
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
-|**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163](http://arxiv.org/abs/2404.05163)|null|
+|**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163](http://arxiv.org/abs/2404.05163)|**[link](https://github.com/tianfr/semantic-flow)**|
 |**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/abs/2404.04913)|null|
 |**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/abs/2404.04880)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
