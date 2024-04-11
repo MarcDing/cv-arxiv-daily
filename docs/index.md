@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693](http://arxiv.org/abs/2404.06693)|null|
 |**2024-04-09**|**Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction**|Sierra Bonilla et.al.|[2404.06128](http://arxiv.org/abs/2404.06128)|**[link](https://github.com/smbonilla/gaussianpancakes)**|
 |**2024-04-09**|**Estimating the lateral speed of a fast shock driven by a coronal mass ejection at the location of solar radio emissions**|S. Normo et.al.|[2404.06102](http://arxiv.org/abs/2404.06102)|null|
 |**2024-04-08**|**3D-COCO: extension of MS-COCO dataset for image detection and 3D reconstruction modules**|Maxence Bideaux et.al.|[2404.05641](http://arxiv.org/abs/2404.05641)|null|
@@ -374,6 +376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models**|Xinfeng Li et.al.|[2404.06666](http://arxiv.org/abs/2404.06666)|**[link](https://github.com/letterligo/text-agnostic-governance)**|
 |**2024-04-08**|**A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion**|Guokai Zhang et.al.|[2404.05607](http://arxiv.org/abs/2404.05607)|null|
 |**2024-04-08**|**UniFL: Improve Stable Diffusion via Unified Feedback Learning**|Jiacheng Zhang et.al.|[2404.05595](http://arxiv.org/abs/2404.05595)|null|
 |**2024-04-08**|**Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding**|Junseo Park et.al.|[2404.05256](http://arxiv.org/abs/2404.05256)|null|
@@ -730,6 +733,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/abs/2404.06832)|**[link](https://github.com/m-kruse98/splatpose)**|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
+|**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/abs/2404.06710)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
