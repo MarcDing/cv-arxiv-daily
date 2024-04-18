@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|null|
+|**2024-04-17**|**Texture tomography, a versatile framework to study crystalline texture in 3D**|M. P. K. Frewein et.al.|[2404.11195](http://arxiv.org/abs/2404.11195)|null|
+|**2024-04-17**|**REACTO: Reconstructing Articulated Objects from a Single Video**|Chaoyue Song et.al.|[2404.11151](http://arxiv.org/abs/2404.11151)|null|
 |**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
 |**2024-04-16**|**PyTorchGeoNodes: Enabling Differentiable Shape Programs for 3D Shape Reconstruction**|Sinisa Stekovic et.al.|[2404.10620](http://arxiv.org/abs/2404.10620)|null|
 |**2024-04-15**|**CryoMAE: Few-Shot Cryo-EM Particle Picking with Masked Autoencoders**|Chentianye Xu et.al.|[2404.10178](http://arxiv.org/abs/2404.10178)|null|
@@ -391,6 +394,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474](http://arxiv.org/abs/2404.11474)|**[link](https://github.com/jamie-cheung/lsast)**|
+|**2024-04-17**|**TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing**|Sherry X. Chen et.al.|[2404.11120](http://arxiv.org/abs/2404.11120)|**[link](https://github.com/sherryxtchen/tino-edit)**|
+|**2024-04-17**|**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**|Dingkun Zhang et.al.|[2404.11098](http://arxiv.org/abs/2404.11098)|null|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
 |**2024-04-16**|**EucliDreamer: Fast and High-Quality Texturing for 3D Models with Depth-Conditioned Stable Diffusion**|Cindy Le et.al.|[2404.10279](http://arxiv.org/abs/2404.10279)|null|
 |**2024-04-15**|**Salient Object-Aware Background Generation using Text-Guided Diffusion Models**|Amir Erfan Eshratifar et.al.|[2404.10157](http://arxiv.org/abs/2404.10157)|null|
@@ -759,6 +766,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
 |**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441](http://arxiv.org/abs/2404.10441)|null|
