@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller et.al.|[2404.15001](http://arxiv.org/abs/2404.15001)|null|
 |**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
 |**2024-04-21**|**Mapping Phonon Polaritons with Visible Light**|Kiernan E. Arledge et.al.|[2404.13759](http://arxiv.org/abs/2404.13759)|null|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
@@ -394,6 +395,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Do not think pink elephant!**|Kyomin Hwang et.al.|[2404.15154](http://arxiv.org/abs/2404.15154)|null|
+|**2024-04-23**|**SkinGEN: an Explainable Dermatology Diagnosis-to-Generation Framework with Interactive Vision-Language Models**|Bo Lin et.al.|[2404.14755](http://arxiv.org/abs/2404.14755)|null|
 |**2024-04-21**|**SmartMem: Layout Transformation Elimination and Adaptation for Efficient DNN Execution on Mobile**|Wei Niu et.al.|[2404.13528](http://arxiv.org/abs/2404.13528)|null|
 |**2024-04-19**|**ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model**|Dingming Liu et.al.|[2404.12903](http://arxiv.org/abs/2404.12903)|null|
 |**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
