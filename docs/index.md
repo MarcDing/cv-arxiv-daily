@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -408,7 +408,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-01**|**Streamlining Image Editing with Layered Diffusion Brushes**|Peyman Gholami et.al.|[2405.00313](http://arxiv.org/abs/2405.00313)|null|
-|**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|null|
+|**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|**[link](https://github.com/luckybird1994/ASAM)**|
 |**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382](http://arxiv.org/abs/2404.19382)|null|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591](http://arxiv.org/abs/2404.18591)|null|
