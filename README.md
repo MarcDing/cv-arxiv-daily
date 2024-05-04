@@ -422,7 +422,7 @@
 |**2024-05-01**|**Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models**|Xiaoshi Wu et.al.|[2405.00760](http://arxiv.org/abs/2405.00760)|null|
 |**2024-05-01**|**Streamlining Image Editing with Layered Diffusion Brushes**|Peyman Gholami et.al.|[2405.00313](http://arxiv.org/abs/2405.00313)|null|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|**[link](https://github.com/luckybird1994/ASAM)**|
-|**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382](http://arxiv.org/abs/2404.19382)|null|
+|**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382](http://arxiv.org/abs/2404.19382)|**[link](https://github.com/hxxdtd/pund)**|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591](http://arxiv.org/abs/2404.18591)|null|
 |**2024-04-30**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385](http://arxiv.org/abs/2404.18385)|null|
