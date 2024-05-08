@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**MVDiff: Scalable and Flexible Multi-View Diffusion for 3D Object Reconstruction from Single-View**|Emmanuelle Bourigault et.al.|[2405.03894](http://arxiv.org/abs/2405.03894)|null|
 |**2024-05-06**|**Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**|Anurag Dalal et.al.|[2405.03417](http://arxiv.org/abs/2405.03417)|null|
 |**2024-05-05**|**Morphokinematical study of the planetary nebula Me2-1: Unveiling its point-symmetric and unusual physical structure**|L. F. Miranda et.al.|[2405.02938](http://arxiv.org/abs/2405.02938)|null|
 |**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568](http://arxiv.org/abs/2405.02568)|null|
@@ -808,6 +809,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/abs/2405.04416)|null|
+|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/abs/2405.02880)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859](http://arxiv.org/abs/2405.02859)|null|
 |**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/abs/2405.02762)|null|
