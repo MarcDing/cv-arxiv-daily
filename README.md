@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -415,7 +415,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 ## Diffusion
 
@@ -427,7 +427,7 @@
 |**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039](http://arxiv.org/abs/2405.05039)|null|
 |**2024-05-07**|**Remote Diffusion**|Kunal Sunil Kasodekar et.al.|[2405.04717](http://arxiv.org/abs/2405.04717)|null|
 |**2024-05-06**|**An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas**|Mira Slavcheva et.al.|[2405.03682](http://arxiv.org/abs/2405.03682)|null|
-|**2024-05-06**|**Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity**|Yizhuo Lu et.al.|[2405.03280](http://arxiv.org/abs/2405.03280)|null|
+|**2024-05-06**|**Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity**|Yizhuo Lu et.al.|[2405.03280](http://arxiv.org/abs/2405.03280)|**[link](https://github.com/zuskd/mind-animator)**|
 |**2024-05-06**|**Mind the Gap Between Synthetic and Real: Utilizing Transfer Learning to Probe the Boundaries of Stable Diffusion Generated Data**|Leonhard Hennicke et.al.|[2405.03243](http://arxiv.org/abs/2405.03243)|null|
 |**2024-05-04**|**Stable Diffusion Dataset Generation for Downstream Classification Tasks**|Eugenio Lomurno et.al.|[2405.02698](http://arxiv.org/abs/2405.02698)|null|
 |**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
@@ -818,14 +818,14 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
-|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
+|**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|null|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/abs/2405.05526)|null|
 |**2024-05-08**|**${M^2D}$ NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010](http://arxiv.org/abs/2405.05010)|null|
@@ -1429,7 +1429,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
