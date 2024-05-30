@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-05-27**|**SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing**|Yong-Qiang Mao et.al.|[2405.17140](http://arxiv.org/abs/2405.17140)|null|
 |**2024-05-27**|**DINO-SD: Champion Solution for ICRA 2024 RoboDepth Challenge**|Yifan Mao et.al.|[2405.17102](http://arxiv.org/abs/2405.17102)|null|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
-|**2024-05-28**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
+|**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-26**|**Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians**|Erik Sandström et.al.|[2405.16544](http://arxiv.org/abs/2405.16544)|null|
 |**2024-05-25**|**Neural Network-Based Tracking and 3D Reconstruction of Baseball Pitch Trajectories from Single-View 2D Video**|Jhen Hsieh et.al.|[2405.16296](http://arxiv.org/abs/2405.16296)|null|
 |**2024-05-25**|**3D reconstruction of a million atoms by multiple-section local-orbital tomography**|Liangze Mao et.al.|[2405.16007](http://arxiv.org/abs/2405.16007)|null|
@@ -439,7 +439,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Diffusion
 
@@ -868,7 +868,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## NeRF
 
@@ -876,10 +876,10 @@
 |---|---|---|---|---|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
-|**2024-05-28**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
-|**2024-05-28**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
+|**2024-05-29**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|null|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
@@ -1515,7 +1515,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
