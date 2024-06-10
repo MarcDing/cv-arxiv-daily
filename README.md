@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -458,7 +458,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Diffusion
 
@@ -470,7 +470,7 @@
 |**2024-06-05**|**A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models**|Hamidreza Kamkari et.al.|[2406.03537](http://arxiv.org/abs/2406.03537)|null|
 |**2024-06-05**|**Understanding the Impact of Negative Prompts: When and How Do They Take Effect?**|Yuanhao Ban et.al.|[2406.02965](http://arxiv.org/abs/2406.02965)|null|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|**[link](https://github.com/ai-med/stablepose)**|
-|**2024-06-06**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
+|**2024-06-07**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
 |**2024-06-03**|**Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation**|Mingyuan Zhou et.al.|[2406.01561](http://arxiv.org/abs/2406.01561)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
 |**2024-06-03**|**CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework**|Han Sun et.al.|[2406.01078](http://arxiv.org/abs/2406.01078)|null|
@@ -911,7 +911,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## NeRF
 
@@ -1583,7 +1583,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

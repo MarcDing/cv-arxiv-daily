@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -463,7 +463,7 @@ layout: default
 |**2024-06-05**|**A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models**|Hamidreza Kamkari et.al.|[2406.03537](http://arxiv.org/abs/2406.03537)|null|
 |**2024-06-05**|**Understanding the Impact of Negative Prompts: When and How Do They Take Effect?**|Yuanhao Ban et.al.|[2406.02965](http://arxiv.org/abs/2406.02965)|null|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|**[link](https://github.com/ai-med/stablepose)**|
-|**2024-06-06**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
+|**2024-06-07**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
 |**2024-06-03**|**Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation**|Mingyuan Zhou et.al.|[2406.01561](http://arxiv.org/abs/2406.01561)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
 |**2024-06-03**|**CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework**|Han Sun et.al.|[2406.01078](http://arxiv.org/abs/2406.01078)|null|
