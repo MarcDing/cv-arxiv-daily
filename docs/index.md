@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images**|Yufei Han et.al.|[2406.07111](http://arxiv.org/abs/2406.07111)|null|
+|**2024-06-10**|**HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction**|Jikai Wang et.al.|[2406.06843](http://arxiv.org/abs/2406.06843)|null|
+|**2024-06-10**|**PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2406.06679](http://arxiv.org/abs/2406.06679)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849](http://arxiv.org/abs/2406.05849)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649](http://arxiv.org/abs/2406.05649)|null|
 |**2024-06-07**|**Proton 3D reconstruction with T-odd TMD gluon densities**|Alessandro Bacchetta et.al.|[2406.04893](http://arxiv.org/abs/2406.04893)|null|
@@ -462,6 +465,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546](http://arxiv.org/abs/2406.07546)|null|
+|**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
+|**2024-06-11**|**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**|Zigeng Chen et.al.|[2406.06911](http://arxiv.org/abs/2406.06911)|**[link](https://github.com/czg1225/asyncdiff)**|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
 |**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424](http://arxiv.org/abs/2406.06424)|null|
 |**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382](http://arxiv.org/abs/2406.06382)|**[link](https://github.com/yigu1008/diffusion-rpo)**|
@@ -920,6 +926,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
