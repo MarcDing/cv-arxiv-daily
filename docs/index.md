@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion**|Kailai Sun et.al.|[2406.09792](http://arxiv.org/abs/2406.09792)|**[link](https://github.com/kailaisun/indoor-depth-completion)**|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-13**|**Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset**|Yiming Li et.al.|[2406.09383](http://arxiv.org/abs/2406.09383)|null|
 |**2024-06-13**|**LRM-Zero: Training Large Reconstruction Models with Synthesized Data**|Desai Xie et.al.|[2406.09371](http://arxiv.org/abs/2406.09371)|null|
 |**2024-06-13**|**OpenMaterial: A Comprehensive Dataset of Complex Materials for 3D Reconstruction**|Zheng Dang et.al.|[2406.08894](http://arxiv.org/abs/2406.08894)|null|
@@ -471,6 +473,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
+|**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
 |**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|null|
 |**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
 |**2024-06-12**|**How to Distinguish AI-Generated Images from Authentic Photographs**|Negar Kamali et.al.|[2406.08651](http://arxiv.org/abs/2406.08651)|null|
@@ -938,6 +942,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
