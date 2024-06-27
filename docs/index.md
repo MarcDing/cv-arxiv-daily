@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
+|**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422](http://arxiv.org/abs/2406.18422)|null|
+|**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982](http://arxiv.org/abs/2406.15982)|null|
 |**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707](http://arxiv.org/abs/2406.15707)|null|
@@ -486,6 +489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547](http://arxiv.org/abs/2406.17547)|null|
