@@ -7,16 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-27**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336](http://arxiv.org/abs/2406.19336)|null|
+|**2024-06-28**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336](http://arxiv.org/abs/2406.19336)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
-|**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422](http://arxiv.org/abs/2406.18422)|null|
+|**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422](http://arxiv.org/abs/2406.18422)|**[link](https://github.com/abrilcf/3d-3d_repeat-concatenate)**|
 |**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982](http://arxiv.org/abs/2406.15982)|null|
@@ -490,7 +490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
+|**2024-06-28**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849](http://arxiv.org/abs/2406.18849)|**[link](https://github.com/benchmark-dysca/dysca)**|
 |**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
@@ -499,7 +499,7 @@ layout: default
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
 |**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462](http://arxiv.org/abs/2406.17462)|null|
 |**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|null|
-|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525](http://arxiv.org/abs/2406.16525)|null|
+|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525](http://arxiv.org/abs/2406.16525)|**[link](https://github.com/henggao12/oaml)**|
 |**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|null|
 |**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|null|
 |**2024-06-20**|**VLBiasBench: A Comprehensive Benchmark for Evaluating Bias in Large Vision-Language Model**|Jie Zhang et.al.|[2406.14194](http://arxiv.org/abs/2406.14194)|**[link](https://github.com/xiangkui-cao/vlbiasbench)**|
