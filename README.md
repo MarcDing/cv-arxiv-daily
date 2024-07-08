@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -499,7 +499,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
 
 ## Diffusion
 
@@ -509,7 +509,7 @@
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
 |**2024-06-30**|**Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation**|Peng Huang et.al.|[2407.00752](http://arxiv.org/abs/2407.00752)|null|
 |**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|**[link](https://github.com/dzluke/DAFX2024)**|
-|**2024-06-27**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546](http://arxiv.org/abs/2406.19546)|null|
+|**2024-07-04**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546](http://arxiv.org/abs/2406.19546)|null|
 |**2024-06-28**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849](http://arxiv.org/abs/2406.18849)|**[link](https://github.com/benchmark-dysca/dysca)**|
 |**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
@@ -995,7 +995,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
 
 ## NeRF
 
@@ -1730,7 +1730,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
