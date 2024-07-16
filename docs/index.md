@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -512,7 +512,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
-|**2024-07-11**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513](http://arxiv.org/abs/2407.08513)|null|
+|**2024-07-13**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513](http://arxiv.org/abs/2407.08513)|null|
 |**2024-07-11**|**Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates**|Steffen Dereich et.al.|[2407.08100](http://arxiv.org/abs/2407.08100)|null|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|**[link](https://github.com/MohitShridhar/genima)**|
 |**2024-07-09**|**AstroSpy: On detecting Fake Images in Astronomy via Joint Image-Spectral Representations**|Mohammed Talha Alam et.al.|[2407.06817](http://arxiv.org/abs/2407.06817)|null|
