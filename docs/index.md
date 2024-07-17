@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
+|**2024-07-16**|**MRIo3DS-Net: A Mutually Reinforcing Images to 3D Surface RNN-like framework for model-adaptation indoor 3D reconstruction**|Chang Li et.al.|[2407.11431](http://arxiv.org/abs/2407.11431)|null|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
+|**2024-07-15**|**Stationary CT Imaging of Intracranial Hemorrhage with Diffusion Posterior Sampling Reconstruction**|Alejandro Lopez-Montes et.al.|[2407.11196](http://arxiv.org/abs/2407.11196)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Single-cell 3D genome reconstruction in the haploid setting using rigidity theory**|Sean Dewar et.al.|[2407.10700](http://arxiv.org/abs/2407.10700)|null|
 |**2024-07-15**|**Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems**|Hyungjin Chung et.al.|[2407.10641](http://arxiv.org/abs/2407.10641)|**[link](https://github.com/hj-harry/ddip3d)**|
@@ -517,6 +522,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Single Layer Single Gradient Unlearning**|Zikui Cai et.al.|[2407.11867](http://arxiv.org/abs/2407.11867)|null|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
 |**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736](http://arxiv.org/abs/2407.10736)|null|
 |**2024-07-14**|**Disrupting Diffusion-based Inpainters with Semantic Digression**|Geonho Son et.al.|[2407.10277](http://arxiv.org/abs/2407.10277)|null|
@@ -1024,6 +1030,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962](http://arxiv.org/abs/2407.11962)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921](http://arxiv.org/abs/2407.11921)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394](http://arxiv.org/abs/2407.11394)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
