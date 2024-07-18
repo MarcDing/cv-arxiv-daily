@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,11 +23,11 @@
 |**2024-07-16**|**MRIo3DS-Net: A Mutually Reinforcing Images to 3D Surface RNN-like framework for model-adaptation indoor 3D reconstruction**|Chang Li et.al.|[2407.11431](http://arxiv.org/abs/2407.11431)|null|
 |**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**Stationary CT Imaging of Intracranial Hemorrhage with Diffusion Posterior Sampling Reconstruction**|Alejandro Lopez-Montes et.al.|[2407.11196](http://arxiv.org/abs/2407.11196)|null|
-|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|**[link](https://github.com/pramishp/ihuman)**|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Single-cell 3D genome reconstruction in the haploid setting using rigidity theory**|Sean Dewar et.al.|[2407.10700](http://arxiv.org/abs/2407.10700)|null|
 |**2024-07-15**|**Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems**|Hyungjin Chung et.al.|[2407.10641](http://arxiv.org/abs/2407.10641)|**[link](https://github.com/hj-harry/ddip3d)**|
-|**2024-07-14**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
+|**2024-07-16**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 |**2024-07-12**|**Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba**|Haoye Dong et.al.|[2407.09646](http://arxiv.org/abs/2407.09646)|null|
 |**2024-07-12**|**MetaFood CVPR 2024 Challenge on Physically Informed 3D Food Reconstruction: Methods and Results**|Jiangpeng He et.al.|[2407.09285](http://arxiv.org/abs/2407.09285)|**[link](https://github.com/GCVCG/VolETA-MetaFood)**|
@@ -523,7 +523,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1033,7 +1033,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
 
 ## NeRF
 
@@ -1800,7 +1800,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

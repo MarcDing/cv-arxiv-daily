@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -18,11 +18,11 @@ layout: default
 |**2024-07-16**|**MRIo3DS-Net: A Mutually Reinforcing Images to 3D Surface RNN-like framework for model-adaptation indoor 3D reconstruction**|Chang Li et.al.|[2407.11431](http://arxiv.org/abs/2407.11431)|null|
 |**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**Stationary CT Imaging of Intracranial Hemorrhage with Diffusion Posterior Sampling Reconstruction**|Alejandro Lopez-Montes et.al.|[2407.11196](http://arxiv.org/abs/2407.11196)|null|
-|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|**[link](https://github.com/pramishp/ihuman)**|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Single-cell 3D genome reconstruction in the haploid setting using rigidity theory**|Sean Dewar et.al.|[2407.10700](http://arxiv.org/abs/2407.10700)|null|
 |**2024-07-15**|**Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems**|Hyungjin Chung et.al.|[2407.10641](http://arxiv.org/abs/2407.10641)|**[link](https://github.com/hj-harry/ddip3d)**|
-|**2024-07-14**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
+|**2024-07-16**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 |**2024-07-12**|**Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba**|Haoye Dong et.al.|[2407.09646](http://arxiv.org/abs/2407.09646)|null|
 |**2024-07-12**|**MetaFood CVPR 2024 Challenge on Physically Informed 3D Food Reconstruction: Methods and Results**|Jiangpeng He et.al.|[2407.09285](http://arxiv.org/abs/2407.09285)|**[link](https://github.com/GCVCG/VolETA-MetaFood)**|
