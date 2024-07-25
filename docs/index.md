@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -533,7 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-23**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292](http://arxiv.org/abs/2407.16292)|null|
+|**2024-07-24**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292](http://arxiv.org/abs/2407.16292)|null|
 |**2024-07-23**|**OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person**|Ke Sun et.al.|[2407.16224](http://arxiv.org/abs/2407.16224)|null|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
 |**2024-07-20**|**GreenStableYolo: Optimizing Inference Time and Image Quality of Text-to-Image Generation**|Jingzhi Gong et.al.|[2407.14982](http://arxiv.org/abs/2407.14982)|**[link](https://github.com/gjz78910/greenstableyolo)**|
