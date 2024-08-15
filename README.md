@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-10**|**CryoBench: Diverse and challenging datasets for the heterogeneity problem in cryo-EM**|Minkyu Jeon et.al.|[2408.05526](http://arxiv.org/abs/2408.05526)|null|
 |**2024-08-10**|**Mesh deformation-based single-view 3D reconstruction of thin eyeglasses frames with differentiable rendering**|Fan Zhang et.al.|[2408.05402](http://arxiv.org/abs/2408.05402)|null|
-|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
+|**2024-08-14**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|**[link](https://github.com/joaxkal/lumigauss)**|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson et.al.|[2408.03503](http://arxiv.org/abs/2408.03503)|**[link](https://github.com/NASA-AMMOS/VECTOR)**|
@@ -561,7 +561,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1100,7 +1100,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
 
 ## NeRF
 
@@ -1910,7 +1910,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

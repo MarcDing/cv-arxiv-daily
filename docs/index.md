@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -21,7 +21,7 @@ layout: default
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-10**|**CryoBench: Diverse and challenging datasets for the heterogeneity problem in cryo-EM**|Minkyu Jeon et.al.|[2408.05526](http://arxiv.org/abs/2408.05526)|null|
 |**2024-08-10**|**Mesh deformation-based single-view 3D reconstruction of thin eyeglasses frames with differentiable rendering**|Fan Zhang et.al.|[2408.05402](http://arxiv.org/abs/2408.05402)|null|
-|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
+|**2024-08-14**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|**[link](https://github.com/joaxkal/lumigauss)**|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson et.al.|[2408.03503](http://arxiv.org/abs/2408.03503)|**[link](https://github.com/NASA-AMMOS/VECTOR)**|
