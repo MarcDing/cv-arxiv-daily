@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
 |**2024-08-13**|**PBIR-NIE: Glossy Object Capture under Non-Distant Lighting**|Guangyan Cai et.al.|[2408.06878](http://arxiv.org/abs/2408.06878)|null|
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
@@ -1097,6 +1098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
