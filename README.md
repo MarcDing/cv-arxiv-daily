@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
-|**2024-08-13**|**NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild**|Rishit Dagli et.al.|[2408.10258](http://arxiv.org/abs/2408.10258)|null|
+|**2024-08-21**|**NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild**|Rishit Dagli et.al.|[2408.10258](http://arxiv.org/abs/2408.10258)|null|
 |**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
 |**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234](http://arxiv.org/abs/2408.08234)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
@@ -568,14 +568,14 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619](http://arxiv.org/abs/2408.10619)|null|
-|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
+|**2024-08-21**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
 |**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
 |**2024-08-19**|**The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks**|Niyar R Barman et.al.|[2408.10446](http://arxiv.org/abs/2408.10446)|null|
 |**2024-08-18**|**Detecting the Undetectable: Combining Kolmogorov-Arnold Networks and MLP for AI-Generated Image Detection**|Taharim Rahman Anon et.al.|[2408.09371](http://arxiv.org/abs/2408.09371)|null|
@@ -583,7 +583,7 @@
 |**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
 |**2024-08-16**|**Generative Dataset Distillation Based on Diffusion Model**|Duo Su et.al.|[2408.08610](http://arxiv.org/abs/2408.08610)|**[link](https://github.com/guang000/banko)**|
-|**2024-08-16**|**A New Chinese Landscape Paintings Generation Model based on Stable Diffusion using DreamBooth**|Yujia Gu et.al.|[2408.08561](http://arxiv.org/abs/2408.08561)|null|
+|**2024-08-21**|**A New Chinese Landscape Paintings Generation Model based on Stable Diffusion using DreamBooth**|Yujia Gu et.al.|[2408.08561](http://arxiv.org/abs/2408.08561)|null|
 |**2024-08-15**|**Understanding the Local Geometry of Generative Model Manifolds**|Ahmed Imtiaz Humayun et.al.|[2408.08307](http://arxiv.org/abs/2408.08307)|null|
 |**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
 |**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728](http://arxiv.org/abs/2408.07728)|null|
@@ -1120,7 +1120,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## NeRF
 
@@ -1941,7 +1941,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
