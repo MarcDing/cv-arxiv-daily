@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282](http://arxiv.org/abs/2408.12282)|null|
+|**2024-08-22**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191](http://arxiv.org/abs/2408.12191)|null|
 |**2024-08-22**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu et.al.|[2408.11540](http://arxiv.org/abs/2408.11540)|null|
 |**2024-08-21**|**MeTTA: Single-View to 3D Textured Mesh Reconstruction with Test-Time Adaptation**|Kim Yu-Ji et.al.|[2408.11465](http://arxiv.org/abs/2408.11465)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
@@ -1131,6 +1133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
