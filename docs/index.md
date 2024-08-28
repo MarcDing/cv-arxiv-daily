@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -579,8 +579,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
-|**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
+|**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
 |**2024-08-24**|**Can Visual Foundation Models Achieve Long-term Point Tracking?**|Görkay Aydemir et.al.|[2408.13575](http://arxiv.org/abs/2408.13575)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
 |**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957](http://arxiv.org/abs/2408.12957)|null|
