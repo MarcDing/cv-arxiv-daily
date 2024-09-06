@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
+|**2024-09-04**|**Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**|Shuaifeng Jiang et.al.|[2409.02564](http://arxiv.org/abs/2409.02564)|null|
+|**2024-09-04**|**Coral Model Generation from Single Images for Virtual Reality Applications**|Jie Fu et.al.|[2409.02376](http://arxiv.org/abs/2409.02376)|null|
+|**2024-09-03**|**ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis**|Wangbo Yu et.al.|[2409.02048](http://arxiv.org/abs/2409.02048)|null|
+|**2024-09-03**|**MetaFood3D: Large 3D Food Object Dataset with Nutrition Values**|Yuhao Chen et.al.|[2409.01966](http://arxiv.org/abs/2409.01966)|null|
+|**2024-09-03**|**EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video**|Zhen Zhou et.al.|[2409.01807](http://arxiv.org/abs/2409.01807)|**[link](https://github.com/zhen6618/eprecon)**|
+|**2024-09-02**|**Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos**|Qian Li et.al.|[2409.01003](http://arxiv.org/abs/2409.01003)|null|
 |**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
 |**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149](http://arxiv.org/abs/2408.17149)|null|
 |**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982](http://arxiv.org/abs/2408.16982)|null|
@@ -588,12 +595,13 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model**|Xiaojie Xu et.al.|[2409.01014](http://arxiv.org/abs/2409.01014)|null|
 |**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
 |**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
@@ -1156,12 +1164,15 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
+|**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
+|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|null|
 |**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
@@ -1992,7 +2003,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
