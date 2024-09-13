@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen et.al.|[2409.08207](http://arxiv.org/abs/2409.08207)|null|
+|**2024-09-12**|**SPARK: Self-supervised Personalized Real-time Monocular Face Capture**|Kelian Baert et.al.|[2409.07984](http://arxiv.org/abs/2409.07984)|null|
+|**2024-09-12**|**Advancing Depth Anything Model for Unsupervised Monocular Depth Estimation in Endoscopy**|Bojian Li et.al.|[2409.07723](http://arxiv.org/abs/2409.07723)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
 |**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245](http://arxiv.org/abs/2409.07245)|null|
@@ -613,6 +616,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
+|**2024-09-12**|**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|null|
 |**2024-09-11**|**Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education**|Ali Forootani et.al.|[2409.07110](http://arxiv.org/abs/2409.07110)|null|
 |**2024-09-11**|**CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion**|Joshua Kazdan et.al.|[2409.07025](http://arxiv.org/abs/2409.07025)|null|
 |**2024-09-11**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003](http://arxiv.org/abs/2409.07003)|null|
@@ -1195,6 +1200,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
