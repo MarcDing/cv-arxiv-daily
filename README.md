@@ -19,10 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
+|**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng et.al.|[2409.16863](http://arxiv.org/abs/2409.16863)|null|
+|**2024-09-25**|**3DDX: Bone Surface Reconstruction from a Single Standard-Geometry Radiograph via Dual-Face Depth Estimation**|Yi Gu et.al.|[2409.16702](http://arxiv.org/abs/2409.16702)|null|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
+|**2024-09-24**|**Underground Mapping and Localization Based on Ground-Penetrating Radar**|Jinchang Zhang et.al.|[2409.16446](http://arxiv.org/abs/2409.16446)|null|
 |**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
 |**2024-09-23**|**Matérn Kernels for Tunable Implicit Surface Reconstruction**|Maximilian Weiherer et.al.|[2409.15466](http://arxiv.org/abs/2409.15466)|**[link](https://github.com/mweiherer/matern-surface-reconstruction)**|
 |**2024-09-23**|**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**|Chen Guo et.al.|[2409.15269](http://arxiv.org/abs/2409.15269)|null|
-|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|null|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark**|Michal Nazarczuk et.al.|[2409.15041](http://arxiv.org/abs/2409.15041)|null|
 |**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
 |**2024-09-20**|**Tactile Neural De-rendering**|Jose A. Eyzaguirre et.al.|[2409.13923](http://arxiv.org/abs/2409.13923)|null|
@@ -630,7 +635,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174](http://arxiv.org/abs/2409.16174)|null|
+|**2024-09-25**|**Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models**|Deepak Sridhar et.al.|[2409.16535](http://arxiv.org/abs/2409.16535)|**[link](https://github.com/deepaksridhar/promptsliders)**|
+|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174](http://arxiv.org/abs/2409.16174)|**[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)**|
 |**2024-09-24**|**Zero-Shot Detection of AI-Generated Images**|Davide Cozzolino et.al.|[2409.15875](http://arxiv.org/abs/2409.15875)|null|
 |**2024-09-24**|**Aided design of bridge aesthetics based on Stable Diffusion fine-tuning**|Leye Zhang et.al.|[2409.15812](http://arxiv.org/abs/2409.15812)|**[link](https://github.com/zhangleye/Bridge-SD)**|
 |**2024-09-22**|**URSimulator: Human-Perception-Driven Prompt Tuning for Enhanced Virtual Urban Renewal via Diffusion Models**|Chuanbo Hu et.al.|[2409.14589](http://arxiv.org/abs/2409.14589)|null|
@@ -1229,6 +1235,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
 |**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
 |**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715](http://arxiv.org/abs/2409.15715)|null|
 |**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689](http://arxiv.org/abs/2409.15689)|null|
