@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -23,7 +23,7 @@ layout: default
 |**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
 |**2024-09-23**|**Matérn Kernels for Tunable Implicit Surface Reconstruction**|Maximilian Weiherer et.al.|[2409.15466](http://arxiv.org/abs/2409.15466)|**[link](https://github.com/mweiherer/matern-surface-reconstruction)**|
 |**2024-09-23**|**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**|Chen Guo et.al.|[2409.15269](http://arxiv.org/abs/2409.15269)|null|
-|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|**[link](https://github.com/520jz/spikegs)**|
+|**2024-09-27**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark**|Michal Nazarczuk et.al.|[2409.15041](http://arxiv.org/abs/2409.15041)|null|
 |**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
 |**2024-09-20**|**Tactile Neural De-rendering**|Jose A. Eyzaguirre et.al.|[2409.13923](http://arxiv.org/abs/2409.13923)|null|
