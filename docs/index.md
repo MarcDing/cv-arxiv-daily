@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
-|**2024-10-02**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
+|**2024-10-03**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
 |**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202](http://arxiv.org/abs/2410.01202)|null|
 |**2024-10-02**|**Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation**|Junlin Han et.al.|[2410.00890](http://arxiv.org/abs/2410.00890)|null|
 |**2024-10-01**|**An Illumination-Robust Feature Extractor Augmented by Relightable 3D Reconstruction**|Shunyi Zhao et.al.|[2410.00629](http://arxiv.org/abs/2410.00629)|null|
