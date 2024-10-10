@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-07**|**Real-time Ship Recognition and Georeferencing for the Improvement of Maritime Situational Awareness**|Borja Carrillo Perez et.al.|[2410.04946](http://arxiv.org/abs/2410.04946)|null|
 |**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873](http://arxiv.org/abs/2410.04873)|null|
 |**2024-10-06**|**Multimodal 3D Fusion and In-Situ Learning for Spatially Aware AI**|Chengyuan Xu et.al.|[2410.04652](http://arxiv.org/abs/2410.04652)|**[link](https://github.com/cy-xu/spatially_aware_ai)**|
-|**2024-10-05**|**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**|Kai Jeggle et.al.|[2410.04135](http://arxiv.org/abs/2410.04135)|null|
+|**2024-10-05**|**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**|Kai Jeggle et.al.|[2410.04135](http://arxiv.org/abs/2410.04135)|**[link](https://github.com/tabularaza27/ice_cloud_net)**|
 |**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-04**|**Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry**|Tianrun Chen et.al.|[2410.03417](http://arxiv.org/abs/2410.03417)|null|
 |**2024-10-04**|**3D Segmentation of Neuronal Nuclei and Cell-Type Identification using Multi-channel Information**|Antonio LaTorre et.al.|[2410.03248](http://arxiv.org/abs/2410.03248)|null|
@@ -652,7 +652,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
-|**2024-10-06**|**DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion**|Ke Sun et.al.|[2410.04372](http://arxiv.org/abs/2410.04372)|null|
+|**2024-10-06**|**DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion**|Ke Sun et.al.|[2410.04372](http://arxiv.org/abs/2410.04372)|**[link](https://github.com/skjack/diffusionfake)**|
 |**2024-10-05**|**Accelerating Diffusion Models with One-to-Many Knowledge Distillation**|Linfeng Zhang et.al.|[2410.04191](http://arxiv.org/abs/2410.04191)|null|
 |**2024-10-04**|**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**|Wenxuan Wang et.al.|[2410.03869](http://arxiv.org/abs/2410.03869)|null|
 |**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
