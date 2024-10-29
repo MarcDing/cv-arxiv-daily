@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-27**|**Neural rendering enables dynamic tomography**|Ivan Grega et.al.|[2410.20558](http://arxiv.org/abs/2410.20558)|null|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
+|**2024-10-26**|**SCube: Instant Large-Scale Scene Reconstruction using VoxSplats**|Xuanchi Ren et.al.|[2410.20030](http://arxiv.org/abs/2410.20030)|null|
+|**2024-10-25**|**Tracking and triangulating firefly flashes in field recordings**|Raphael Sarfati et.al.|[2410.19932](http://arxiv.org/abs/2410.19932)|null|
 |**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956](http://arxiv.org/abs/2410.18956)|null|
 |**2024-10-24**|**A Cranial-Feature-Based Registration Scheme for Robotic Micromanipulation Using a Microscopic Stereo Camera System**|Xiaofeng Lin et.al.|[2410.18630](http://arxiv.org/abs/2410.18630)|null|
 |**2024-10-22**|**SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**|Cheng-De Fan et.al.|[2410.17249](http://arxiv.org/abs/2410.17249)|null|
@@ -688,6 +693,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972](http://arxiv.org/abs/2410.20972)|null|
+|**2024-10-28**|**Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models**|Weijian Luo et.al.|[2410.20898](http://arxiv.org/abs/2410.20898)|null|
 |**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-28**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
 |**2024-10-25**|**Flow Generator Matching**|Zemin Huang et.al.|[2410.19310](http://arxiv.org/abs/2410.19310)|null|
@@ -1345,6 +1352,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
 |**2024-10-27**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
