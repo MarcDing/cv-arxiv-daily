@@ -702,6 +702,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
+|**2024-11-08**|**Cancer-Net SCa-Synth: An Open Access Synthetically Generated 2D Skin Lesion Dataset for Skin Cancer Classification**|Chi-en Amy Tai et.al.|[2411.05269](http://arxiv.org/abs/2411.05269)|**[link](https://github.com/catai9/cancer-net-sca-synth)**|
 |**2024-11-06**|**Multi-Reward as Condition for Instruction-based Image Editing**|Xin Gu et.al.|[2411.04713](http://arxiv.org/abs/2411.04713)|null|
 |**2024-11-07**|**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning**|Yuxuan Duan et.al.|[2411.04571](http://arxiv.org/abs/2411.04571)|**[link](https://github.com/ldhlwh/domaingallery)**|
 |**2024-11-07**|**HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images**|Zhenyue Qin et.al.|[2411.04332](http://arxiv.org/abs/2411.04332)|null|
@@ -1371,6 +1373,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
