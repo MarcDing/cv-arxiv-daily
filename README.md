@@ -19,7 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096](http://arxiv.org/abs/2411.07096)|null|
+|**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du et.al.|[2411.07551](http://arxiv.org/abs/2411.07551)|null|
+|**2024-11-12**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096](http://arxiv.org/abs/2411.07096)|null|
 |**2024-11-10**|**Real-time Deformation-aware Control for Autonomous Robotic Subretinal Injection under iOCT Guidance**|Demir Arikan et.al.|[2411.06557](http://arxiv.org/abs/2411.06557)|null|
 |**2024-11-10**|**A novel algorithm for optimizing bundle adjustment in image sequence alignment**|Hailin Xu et.al.|[2411.06343](http://arxiv.org/abs/2411.06343)|null|
 |**2024-11-08**|**Benchmarking 3D multi-coil NC-PDNet MRI reconstruction**|Asma Tanabene et.al.|[2411.05883](http://arxiv.org/abs/2411.05883)|null|
@@ -713,6 +714,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Emotion Classification of Children Expressions**|Sanchayan Vivekananthan et.al.|[2411.07708](http://arxiv.org/abs/2411.07708)|null|
 |**2024-11-09**|**Text2CAD: Text to 3D CAD Generation via Technical Drawings**|Mohsen Yavartanoo et.al.|[2411.06206](http://arxiv.org/abs/2411.06206)|null|
 |**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
 |**2024-11-08**|**Cancer-Net SCa-Synth: An Open Access Synthetically Generated 2D Skin Lesion Dataset for Skin Cancer Classification**|Chi-en Amy Tai et.al.|[2411.05269](http://arxiv.org/abs/2411.05269)|**[link](https://github.com/catai9/cancer-net-sca-synth)**|
@@ -1387,6 +1389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037](http://arxiv.org/abs/2411.08037)|**[link](https://github.com/astra-vision/brdftransform)**|
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
