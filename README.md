@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -735,7 +735,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241128>back to top</a>)</p>
 
 ## Diffusion
 
@@ -750,7 +750,7 @@
 |**2024-11-24**|**AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea**|Qifan Yu et.al.|[2411.15738](http://arxiv.org/abs/2411.15738)|null|
 |**2024-11-23**|**TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**|Ryugo Morita et.al.|[2411.15580](http://arxiv.org/abs/2411.15580)|null|
 |**2024-11-23**|**When Image Generation Goes Wrong: A Safety Analysis of Stable Diffusion Models**|Matthias Schneider et.al.|[2411.15516](http://arxiv.org/abs/2411.15516)|null|
-|**2024-11-22**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
+|**2024-11-26**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
 |**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
 |**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639](http://arxiv.org/abs/2411.14639)|null|
@@ -1432,7 +1432,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241128>back to top</a>)</p>
 
 ## NeRF
 
@@ -2410,7 +2410,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

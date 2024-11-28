@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -743,7 +743,7 @@ layout: default
 |**2024-11-24**|**AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea**|Qifan Yu et.al.|[2411.15738](http://arxiv.org/abs/2411.15738)|null|
 |**2024-11-23**|**TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**|Ryugo Morita et.al.|[2411.15580](http://arxiv.org/abs/2411.15580)|null|
 |**2024-11-23**|**When Image Generation Goes Wrong: A Safety Analysis of Stable Diffusion Models**|Matthias Schneider et.al.|[2411.15516](http://arxiv.org/abs/2411.15516)|null|
-|**2024-11-22**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
+|**2024-11-26**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
 |**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
 |**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639](http://arxiv.org/abs/2411.14639)|null|
