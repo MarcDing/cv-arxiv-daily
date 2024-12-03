@@ -23,7 +23,7 @@
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290](http://arxiv.org/abs/2411.19290)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
 |**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren et.al.|[2411.19271](http://arxiv.org/abs/2411.19271)|null|
-|**2024-11-28**|**Voxel-based Differentiable X-ray Rendering Improves Self-Supervised 3D CBCT Reconstruction**|Mohammadhossein Momeni et.al.|[2411.19224](http://arxiv.org/abs/2411.19224)|null|
+|**2024-12-02**|**Differentiable Voxel-based X-ray Rendering Improves Sparse-View 3D CBCT Reconstruction**|Mohammadhossein Momeni et.al.|[2411.19224](http://arxiv.org/abs/2411.19224)|**[link](https://github.com/hossein-momeni/diffvox)**|
 |**2024-11-28**|**Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation**|Finlay G. C. Hudson et.al.|[2411.19210](http://arxiv.org/abs/2411.19210)|null|
 |**2024-11-28**|**360Recon: An Accurate Reconstruction Method Based on Depth Fusion from 360 Images**|Zhongmiao Yan et.al.|[2411.19102](http://arxiv.org/abs/2411.19102)|null|
 |**2024-11-28**|**RIGI: Rectifying Image-to-3D Generation Inconsistency via Uncertainty-aware Learning**|Jiacheng Wang et.al.|[2411.18866](http://arxiv.org/abs/2411.18866)|null|
@@ -759,7 +759,7 @@
 |**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/abs/2411.19050)|**[link](https://github.com/cilabuniba/i-dream-my-painting)**|
 |**2024-11-28**|**Descriptions of women are longer than that of men: An analysis of gender portrayal prompts in Stable Diffusion**|Yan Asadchy et.al.|[2411.18994](http://arxiv.org/abs/2411.18994)|null|
 |**2024-11-28**|**Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects**|Weimin Qiu et.al.|[2411.18936](http://arxiv.org/abs/2411.18936)|null|
-|**2024-11-27**|**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds**|Shuangqi Li et.al.|[2411.18810](http://arxiv.org/abs/2411.18810)|null|
+|**2024-12-02**|**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds**|Shuangqi Li et.al.|[2411.18810](http://arxiv.org/abs/2411.18810)|null|
 |**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
 |**2024-11-28**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
 |**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350](http://arxiv.org/abs/2411.18350)|null|
