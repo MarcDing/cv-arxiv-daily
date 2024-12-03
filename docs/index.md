@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -749,7 +749,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-28**|**AMO Sampler: Enhancing Text Rendering with Overshooting**|Xixi Hu et.al.|[2411.19415](http://arxiv.org/abs/2411.19415)|null|
 |**2024-11-28**|**Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation**|Xuehao Cui et.al.|[2411.19246](http://arxiv.org/abs/2411.19246)|null|
-|**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/abs/2411.19050)|null|
+|**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/abs/2411.19050)|**[link](https://github.com/cilabuniba/i-dream-my-painting)**|
 |**2024-11-28**|**Descriptions of women are longer than that of men: An analysis of gender portrayal prompts in Stable Diffusion**|Yan Asadchy et.al.|[2411.18994](http://arxiv.org/abs/2411.18994)|null|
 |**2024-11-28**|**Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects**|Weimin Qiu et.al.|[2411.18936](http://arxiv.org/abs/2411.18936)|null|
 |**2024-11-27**|**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds**|Shuangqi Li et.al.|[2411.18810](http://arxiv.org/abs/2411.18810)|null|
