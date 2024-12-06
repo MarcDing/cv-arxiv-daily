@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
+|**2024-12-05**|**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**|George Webber et.al.|[2412.04339](http://arxiv.org/abs/2412.04339)|null|
+|**2024-12-05**|**CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**|Thomas Walker et.al.|[2412.04120](http://arxiv.org/abs/2412.04120)|null|
+|**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928](http://arxiv.org/abs/2412.03928)|null|
+|**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
+|**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|null|
+|**2024-12-04**|**Bayesian Perspective for Orientation Estimation in Cryo-EM and Cryo-ET**|Sheng Xu et.al.|[2412.03723](http://arxiv.org/abs/2412.03723)|null|
 |**2024-12-04**|**Style3D: Attention-guided Multi-view Style Transfer for 3D Object Generation**|Bingjie Song et.al.|[2412.03571](http://arxiv.org/abs/2412.03571)|null|
 |**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
@@ -761,6 +768,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MV-Adapter: Multi-view Consistent Image Generation Made Easy**|Zehuan Huang et.al.|[2412.03632](http://arxiv.org/abs/2412.03632)|null|
 |**2024-12-04**|**Implicit Priors Editing in Stable Diffusion via Targeted Token Adjustment**|Feng He et.al.|[2412.03400](http://arxiv.org/abs/2412.03400)|null|
 |**2024-12-04**|**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution**|Qinwei Lin et.al.|[2412.03355](http://arxiv.org/abs/2412.03355)|**[link](https://github.com/sleepylin/tasr)**|
 |**2024-12-04**|**Generalized Diffusion Model with Adjusted Offset Noise**|Takuro Kutsuna et.al.|[2412.03134](http://arxiv.org/abs/2412.03134)|null|
