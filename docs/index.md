@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -785,7 +785,7 @@ layout: default
 |**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**|Kartik Patwari et.al.|[2412.06248](http://arxiv.org/abs/2412.06248)|null|
 |**2024-12-08**|**Self-Guidance: Boosting Flow and Diffusion Generation on Their Own**|Tiancheng Li et.al.|[2412.05827](http://arxiv.org/abs/2412.05827)|null|
-|**2024-12-08**|**Open-Source Acceleration of Stable-Diffusion.cpp**|Jingxu Ng et.al.|[2412.05781](http://arxiv.org/abs/2412.05781)|**[link](https://github.com/sealailab/stable-diffusion-cpp)**|
+|**2024-12-10**|**Open-Source Acceleration of Stable-Diffusion.cpp**|Jingxu Ng et.al.|[2412.05781](http://arxiv.org/abs/2412.05781)|**[link](https://github.com/sealailab/stable-diffusion-cpp)**|
 |**2024-12-08**|**BudgetFusion: Perceptually-Guided Adaptive Diffusion Models**|Qinchan et.al.|[2412.05780](http://arxiv.org/abs/2412.05780)|null|
 |**2024-12-06**|**Multi-Armed Bandit Approach for Optimizing Training on Synthetic Data**|Abdulrahman Kerim et.al.|[2412.05466](http://arxiv.org/abs/2412.05466)|**[link](https://github.com/a-kerim/synthetic-data-usability-2024)**|
 |**2024-12-06**|**UniMIC: Towards Universal Multi-modality Perceptual Image Compression**|Yixin Gao et.al.|[2412.04912](http://arxiv.org/abs/2412.04912)|null|
