@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621](http://arxiv.org/abs/2412.09621)|null|
+|**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620](http://arxiv.org/abs/2412.09620)|null|
+|**2024-12-12**|**NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors**|Hung-Jui Huang et.al.|[2412.09617](http://arxiv.org/abs/2412.09617)|**[link](https://github.com/rpl-cmu/normalflow)**|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573](http://arxiv.org/abs/2412.09573)|null|
+|**2024-12-12**|**A Plug-and-Play Algorithm for 3D Video Super-Resolution of Single-Photon LiDAR data**|Alice Ruget et.al.|[2412.09427](http://arxiv.org/abs/2412.09427)|null|
+|**2024-12-12**|**Mixture of neural fields for heterogeneous reconstruction in cryo-EM**|Axel Levy et.al.|[2412.09420](http://arxiv.org/abs/2412.09420)|null|
+|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401](http://arxiv.org/abs/2412.09401)|null|
+|**2024-12-12**|**Hyperbolic-constraint Point Cloud Reconstruction from Single RGB-D Images**|Wenrui Li et.al.|[2412.09055](http://arxiv.org/abs/2412.09055)|null|
 |**2024-12-11**|**3D Mesh Editing using Masked LRMs**|Will Gao et.al.|[2412.08641](http://arxiv.org/abs/2412.08641)|null|
 |**2024-12-11**|**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**|Mingfei Han et.al.|[2412.08591](http://arxiv.org/abs/2412.08591)|null|
 |**2024-12-12**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412](http://arxiv.org/abs/2412.08412)|null|
@@ -779,6 +788,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
+|**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
+|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262](http://arxiv.org/abs/2412.09262)|null|
 |**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|null|
 |**2024-12-09**|**Boosting Alignment for Post-Unlearning Text-to-Image Generative Models**|Myeongseob Ko et.al.|[2412.07808](http://arxiv.org/abs/2412.07808)|**[link](https://github.com/reds-lab/restricted_gradient_diversity_unlearning)**|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
