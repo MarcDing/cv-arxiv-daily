@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -790,7 +790,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
 |**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
-|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262](http://arxiv.org/abs/2412.09262)|null|
+|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262](http://arxiv.org/abs/2412.09262)|**[link](https://github.com/bytedance/LatentSync)**|
 |**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|null|
 |**2024-12-09**|**Boosting Alignment for Post-Unlearning Text-to-Image Generative Models**|Myeongseob Ko et.al.|[2412.07808](http://arxiv.org/abs/2412.07808)|**[link](https://github.com/reds-lab/restricted_gradient_diversity_unlearning)**|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
