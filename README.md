@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742](http://arxiv.org/abs/2412.16742)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
+|**2024-12-21**|**Context-Aware Outlier Rejection for Robust Multi-View 3D Tracking of Similar Small Birds in An Outdoor Aviary**|Keon Moradi et.al.|[2412.16511](http://arxiv.org/abs/2412.16511)|**[link](https://github.com/airou-lab/3d_multi_bird_tracking)**|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211](http://arxiv.org/abs/2412.15211)|null|
 |**2024-12-20**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
 |**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
@@ -822,6 +825,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
+|**2024-12-23**|**Detail-Preserving Latent Diffusion for Stable Shadow Removal**|Jiamin Xu et.al.|[2412.17630](http://arxiv.org/abs/2412.17630)|null|
+|**2024-12-21**|**From Creation to Curriculum: Examining the role of generative AI in Arts Universities**|Atticus Sims et.al.|[2412.16531](http://arxiv.org/abs/2412.16531)|null|
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
 |**2024-12-18**|**SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**|Tong Chen et.al.|[2412.14018](http://arxiv.org/abs/2412.14018)|null|
 |**2024-12-18**|**Diffusion models and stochastic quantisation in lattice field theory**|Gert Aarts et.al.|[2412.13704](http://arxiv.org/abs/2412.13704)|null|
@@ -1570,6 +1577,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
