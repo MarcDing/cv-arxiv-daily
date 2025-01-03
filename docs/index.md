@@ -823,7 +823,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-29**|**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers**|Daiheng Gao et.al.|[2412.20413](http://arxiv.org/abs/2412.20413)|null|
+|**2025-01-02**|**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers**|Daiheng Gao et.al.|[2412.20413](http://arxiv.org/abs/2412.20413)|null|
 |**2024-12-29**|**FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation**|Yan Luo et.al.|[2412.20374](http://arxiv.org/abs/2412.20374)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdiffusion)**|
 |**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489](http://arxiv.org/abs/2412.19489)|null|
 |**2024-12-24**|**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**|Jaechul Roh et.al.|[2412.18302](http://arxiv.org/abs/2412.18302)|null|
