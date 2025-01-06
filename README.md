@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang et.al.|[2501.01798](http://arxiv.org/abs/2501.01798)|**[link](https://github.com/JOY-MM/JoyGen)**|
+|**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
+|**2025-01-03**|**AR4D: Autoregressive 4D Generation from Monocular Videos**|Hanxin Zhu et.al.|[2501.01722](http://arxiv.org/abs/2501.01722)|null|
+|**2024-12-31**|**Tech Report: Divide and Conquer 3D Real-Time Reconstruction for Improved IGS**|Yicheng Zhu et.al.|[2501.01465](http://arxiv.org/abs/2501.01465)|null|
 |**2025-01-01**|**Towards End-to-End Neuromorphic Voxel-based 3D Object Reconstruction Without Physical Priors**|Chuanzhi Xu et.al.|[2501.00741](http://arxiv.org/abs/2501.00741)|null|
 |**2024-12-31**|**Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models**|Suttisak Wizadwongsa et.al.|[2501.00651](http://arxiv.org/abs/2501.00651)|null|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352](http://arxiv.org/abs/2501.00352)|null|
