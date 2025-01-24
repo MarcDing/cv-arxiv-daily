@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-21**|**A Learnt Half-Quadratic Splitting-Based Algorithm for Fast and High-Quality Industrial Cone-beam CT Reconstruction**|Aniket Pramanik et.al.|[2501.13128](http://arxiv.org/abs/2501.13128)|null|
+|**2025-01-20**|**Linea alba 3D morphometric variability by CT scan exploration**|P. Gueroult et.al.|[2501.13116](http://arxiv.org/abs/2501.13116)|null|
 |**2025-01-21**|**Continuous 3D Perception Model with Persistent State**|Qianqian Wang et.al.|[2501.12387](http://arxiv.org/abs/2501.12387)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
@@ -858,7 +861,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-16**|**The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution**|Frank Sifei Luan et.al.|[2501.12407](http://arxiv.org/abs/2501.12407)|null|
+|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/abs/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution**|Frank Sifei Luan et.al.|[2501.12407](http://arxiv.org/abs/2501.12407)|null|
 |**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|null|
@@ -1637,6 +1642,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
