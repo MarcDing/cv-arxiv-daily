@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3D Reconstruction from Sparse-Views**|Eyvaz Najafli et.al.|[2502.04318](http://arxiv.org/abs/2502.04318)|null|
+|**2025-02-05**|**Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning**|SiYeoul Lee et.al.|[2502.03505](http://arxiv.org/abs/2502.03505)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
@@ -882,12 +884,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models**|Lingshun Kong et.al.|[2502.03810](http://arxiv.org/abs/2502.03810)|null|
+|**2025-02-06**|**DICE: Distilling Classifier-Free Guidance into Text Embeddings**|Zhenyu Zhou et.al.|[2502.03726](http://arxiv.org/abs/2502.03726)|null|
+|**2025-02-05**|**Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**|Candi Zheng et.al.|[2502.03491](http://arxiv.org/abs/2502.03491)|null|
 |**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
 |**2025-02-05**|**DANDI: Diffusion as Normative Distribution for Deep Neural Network Input**|Somin Kim et.al.|[2502.02910](http://arxiv.org/abs/2502.02910)|null|
 |**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465](http://arxiv.org/abs/2502.02465)|null|
 |**2025-02-04**|**Exploring the latent space of diffusion models directly through singular value decomposition**|Li Wang et.al.|[2502.02225](http://arxiv.org/abs/2502.02225)|null|
 |**2025-02-03**|**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning**|Hanyang Zhao et.al.|[2502.01819](http://arxiv.org/abs/2502.01819)|null|
-|**2025-02-05**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
+|**2025-02-06**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
 |**2025-02-01**|**Leveraging Stable Diffusion for Monocular Depth Estimation via Image Semantic Encoding**|Jingming Xia et.al.|[2502.01666](http://arxiv.org/abs/2502.01666)|null|
 |**2025-02-02**|**RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning**|Yuanhuiyi Lyu et.al.|[2502.00848](http://arxiv.org/abs/2502.00848)|null|
 |**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
