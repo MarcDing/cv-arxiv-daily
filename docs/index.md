@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**PUGS: Perceptual Uncertainty for Grasp Selection in Underwater Environments**|Onur Bagoren et.al.|[2502.09824](http://arxiv.org/abs/2502.09824)|null|
 |**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613](http://arxiv.org/abs/2502.09613)|null|
-|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
 |**2025-02-13**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
 |**2025-02-11**|**EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera**|Christen Millerdurai et.al.|[2502.07869](http://arxiv.org/abs/2502.07869)|null|
 |**2025-02-10**|**TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**|Yangguang Li et.al.|[2502.06608](http://arxiv.org/abs/2502.06608)|null|
@@ -883,6 +884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389](http://arxiv.org/abs/2502.10389)|null|
+|**2025-02-14**|**Precise Parameter Localization for Textual Generation in Diffusion Models**|Łukasz Staniszewski et.al.|[2502.09935](http://arxiv.org/abs/2502.09935)|null|
 |**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|**[link](https://github.com/liuxiao-guan/iet_agc)**|
 |**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580](http://arxiv.org/abs/2502.08580)|null|
 |**2025-02-12**|**A Survey on Pre-Trained Diffusion Model Distillations**|Xuhui Fan et.al.|[2502.08364](http://arxiv.org/abs/2502.08364)|null|
