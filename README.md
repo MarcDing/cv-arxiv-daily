@@ -19,10 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**|Shaoming Li et.al.|[2502.20861](http://arxiv.org/abs/2502.20861)|null|
+|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669](http://arxiv.org/abs/2502.20669)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Flexible Foil Mesh Generation for Spatial Focal-Body Modeling of a Spherical Mirror**|Netzer Moriya et.al.|[2502.19092](http://arxiv.org/abs/2502.19092)|null|
-|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|null|
+|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|**[link](https://github.com/aleasca/histology-nmj-and-muscle-activity-toolbox)**|
 |**2025-02-26**|**Table-top three-dimensional photoemission orbital tomography with a femtosecond extreme ultraviolet light source**|Wiebke Bennecke et.al.|[2502.18269](http://arxiv.org/abs/2502.18269)|null|
 |**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219](http://arxiv.org/abs/2502.18219)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
@@ -914,6 +916,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Goal-Oriented Semantic Communication for Wireless Video Transmission via Generative AI**|Nan Li et.al.|[2502.20927](http://arxiv.org/abs/2502.20927)|null|
+|**2025-02-28**|**Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2502.20667](http://arxiv.org/abs/2502.20667)|null|
 |**2025-02-27**|**CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation**|Reza Abbasi et.al.|[2502.19842](http://arxiv.org/abs/2502.19842)|null|
 |**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
 |**2025-02-24**|**Culture-TRIP: Culturally-Aware Text-to-Image Generation with Iterative Prompt Refinment**|Suchae Jeong et.al.|[2502.16902](http://arxiv.org/abs/2502.16902)|null|
@@ -1734,7 +1738,7 @@
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
 |**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125](http://arxiv.org/abs/2502.19125)|null|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
 |**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
