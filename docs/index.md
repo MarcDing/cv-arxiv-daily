@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -911,7 +911,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**Goal-Oriented Semantic Communication for Wireless Video Transmission via Generative AI**|Nan Li et.al.|[2502.20927](http://arxiv.org/abs/2502.20927)|null|
 |**2025-02-28**|**Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA**|Ojonugwa Oluwafemi Ejiga Peter et.al.|[2502.20667](http://arxiv.org/abs/2502.20667)|null|
-|**2025-02-27**|**CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation**|Reza Abbasi et.al.|[2502.19842](http://arxiv.org/abs/2502.19842)|null|
+|**2025-02-28**|**CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation**|Reza Abbasi et.al.|[2502.19842](http://arxiv.org/abs/2502.19842)|null|
 |**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
 |**2025-02-24**|**Culture-TRIP: Culturally-Aware Text-to-Image Generation with Iterative Prompt Refinment**|Suchae Jeong et.al.|[2502.16902](http://arxiv.org/abs/2502.16902)|null|
 |**2025-02-21**|**Mean-Shift Distillation for Diffusion Mode Seeking**|Vikas Thamizharasan et.al.|[2502.15989](http://arxiv.org/abs/2502.15989)|null|
