@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction**|Feiran Wang et.al.|[2503.08596](http://arxiv.org/abs/2503.08596)|null|
+|**2025-03-11**|**S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction**|Guangting Zheng et.al.|[2503.08217](http://arxiv.org/abs/2503.08217)|null|
+|**2025-03-11**|**Explaining Human Preferences via Metrics for Structured 3D Reconstruction**|Jack Langerman et.al.|[2503.08208](http://arxiv.org/abs/2503.08208)|null|
+|**2025-03-11**|**CDI3D: Cross-guided Dense-view Interpolation for 3D Reconstruction**|Zhiyuan Wu et.al.|[2503.08005](http://arxiv.org/abs/2503.08005)|null|
 |**2025-03-10**|**Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression**|Thibaut Loiseau et.al.|[2503.07561](http://arxiv.org/abs/2503.07561)|null|
 |**2025-03-10**|**PE3R: Perception-Efficient 3D Reconstruction**|Jie Hu et.al.|[2503.07507](http://arxiv.org/abs/2503.07507)|null|
 |**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
@@ -943,6 +949,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**DyArtbank: Diverse Artistic Style Transfer via Pre-trained Stable Diffusion and Dynamic Style Prompt Artbank**|Zhanjie Zhang et.al.|[2503.08392](http://arxiv.org/abs/2503.08392)|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
@@ -1773,6 +1780,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
+|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952](http://arxiv.org/abs/2503.07952)|null|
+|**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828](http://arxiv.org/abs/2503.07828)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
 |**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
 |**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
