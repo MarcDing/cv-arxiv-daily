@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439](http://arxiv.org/abs/2503.13439)|null|
+|**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435](http://arxiv.org/abs/2503.13435)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
+|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
+|**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
+|**2025-03-15**|**Multi-slice beam propagation method for imaging multiple-scattering samples on reflective substrates**|Jiabei Zhu et.al.|[2503.12246](http://arxiv.org/abs/2503.12246)|null|
+|**2025-03-15**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|null|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Enhanced Multi-View Pedestrian Detection Using Probabilistic Occupancy Volume**|Reef Alturki et.al.|[2503.10982](http://arxiv.org/abs/2503.10982)|null|
 |**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
@@ -958,6 +965,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**Debiasing Diffusion Model: Enhancing Fairness through Latent Representation Learning in Stable Diffusion Model**|Lin-Chun Huang et.al.|[2503.12536](http://arxiv.org/abs/2503.12536)|null|
+|**2025-03-16**|**Diffusion-based Synthetic Data Generation for Visible-Infrared Person Re-Identification**|Wenbo Dai et.al.|[2503.12472](http://arxiv.org/abs/2503.12472)|null|
+|**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-13**|**MoEdit: On Learning Quantity Perception for Multi-object Image Editing**|Yanfeng Li et.al.|[2503.10112](http://arxiv.org/abs/2503.10112)|**[link](https://github.com/tear-kitty/moedit)**|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
@@ -1795,11 +1805,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947](http://arxiv.org/abs/2503.12947)|null|
+|**2025-03-15**|**FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields**|Rui Qian et.al.|[2503.12086](http://arxiv.org/abs/2503.12086)|null|
+|**2025-03-14**|**Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation**|Xianming Zeng et.al.|[2503.11731](http://arxiv.org/abs/2503.11731)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
-|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-17**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
 |**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952](http://arxiv.org/abs/2503.07952)|null|
 |**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828](http://arxiv.org/abs/2503.07828)|null|
