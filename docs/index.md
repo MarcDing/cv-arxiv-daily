@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -983,7 +983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience**|Yahav Biran et.al.|[2503.20074](http://arxiv.org/abs/2503.20074)|null|
+|**2025-03-27**|**Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience**|Yahav Biran et.al.|[2503.20074](http://arxiv.org/abs/2503.20074)|null|
 |**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
 |**2025-03-25**|**Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model**|Changyong He et.al.|[2503.19448](http://arxiv.org/abs/2503.19448)|null|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
