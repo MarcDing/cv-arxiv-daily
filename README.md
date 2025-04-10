@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025](http://arxiv.org/abs/2504.07025)|null|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
+|**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716](http://arxiv.org/abs/2504.06716)|null|
 |**2025-04-08**|**D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**|Jisang Han et.al.|[2504.06264](http://arxiv.org/abs/2504.06264)|null|
 |**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210](http://arxiv.org/abs/2504.06210)|null|
 |**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178](http://arxiv.org/abs/2504.06178)|null|
@@ -1020,6 +1024,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
 |**2025-04-07**|**Imagining the Far East: Exploring Perceived Biases in AI-Generated Images of East Asian Women**|Xingyu Lan et.al.|[2504.04865](http://arxiv.org/abs/2504.04865)|null|
 |**2025-04-07**|**TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment**|Adnan Khan et.al.|[2504.04722](http://arxiv.org/abs/2504.04722)|null|
 |**2025-04-05**|**SDEIT: Semantic-Driven Electrical Impedance Tomography**|Dong Liu et.al.|[2504.04185](http://arxiv.org/abs/2504.04185)|null|
@@ -1890,6 +1895,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
