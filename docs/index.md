@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields**|Brandon Zhao et.al.|[2504.15262](http://arxiv.org/abs/2504.15262)|null|
+|**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699](http://arxiv.org/abs/2504.14699)|null|
+|**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548](http://arxiv.org/abs/2504.14548)|null|
+|**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
 |**2025-04-18**|**Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction**|Wenyu Li et.al.|[2504.13419](http://arxiv.org/abs/2504.13419)|null|
 |**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152](http://arxiv.org/abs/2504.13152)|null|
@@ -1043,6 +1047,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-20**|**SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization**|Liang Peng et.al.|[2504.14534](http://arxiv.org/abs/2504.14534)|**[link](https://github.com/spengliang/sudo)**|
+|**2025-04-19**|**Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis**|Zichuan Liu et.al.|[2504.14202](http://arxiv.org/abs/2504.14202)|null|
+|**2025-04-18**|**Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation**|Fulvio Sanguigni et.al.|[2504.14011](http://arxiv.org/abs/2504.14011)|null|
 |**2025-04-17**|**ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models**|Linkang Du et.al.|[2504.13061](http://arxiv.org/abs/2504.13061)|**[link](https://github.com/jozenn/artistauditor)**|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
 |**2025-04-18**|**WaterFlow: Learning Fast & Robust Watermarks using Stable Diffusion**|Vinay Shukla et.al.|[2504.12354](http://arxiv.org/abs/2504.12354)|null|
@@ -1922,7 +1930,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
+|**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
