@@ -1047,6 +1047,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-19**|**LLM-Enabled Style and Content Regularization for Personalized Text-to-Image Generation**|Anran Yu et.al.|[2504.15309](http://arxiv.org/abs/2504.15309)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-20**|**SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization**|Liang Peng et.al.|[2504.14534](http://arxiv.org/abs/2504.14534)|**[link](https://github.com/spengliang/sudo)**|
 |**2025-04-19**|**Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis**|Zichuan Liu et.al.|[2504.14202](http://arxiv.org/abs/2504.14202)|null|
@@ -1930,6 +1931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
