@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
 |**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219](http://arxiv.org/abs/2505.06219)|null|
 |**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
 |**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander et.al.|[2505.05644](http://arxiv.org/abs/2505.05644)|null|
@@ -1089,9 +1091,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
+|**2025-05-10**|**StableMotion: Repurposing Diffusion-Based Image Priors for Motion Estimation**|Ziyi Wang et.al.|[2505.06668](http://arxiv.org/abs/2505.06668)|null|
+|**2025-05-06**|**SynSHRP2: A Synthetic Multimodal Benchmark for Driving Safety-critical Events Derived from Real-world Driving Data**|Liang Shi et.al.|[2505.06276](http://arxiv.org/abs/2505.06276)|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
 |**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
-|**2025-05-08**|**Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573](http://arxiv.org/abs/2505.05573)|**[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)**|
+|**2025-05-12**|**Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573](http://arxiv.org/abs/2505.05573)|**[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)**|
 |**2025-05-08**|**Boosting Statistic Learning with Synthetic Data from Pretrained Large Models**|Jialong Jiang et.al.|[2505.04992](http://arxiv.org/abs/2505.04992)|null|
 |**2025-05-06**|**ChannelExplorer: Exploring Class Separability Through Activation Channel Visualization**|Md Rahat-uz- Zaman et.al.|[2505.04647](http://arxiv.org/abs/2505.04647)|null|
 |**2025-05-07**|**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion**|Yanyu Li et.al.|[2505.04347](http://arxiv.org/abs/2505.04347)|null|
@@ -1989,6 +1995,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
