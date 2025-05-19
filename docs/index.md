@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Patient-Specific Dynamic Digital-Physical Twin for Coronary Intervention Training: An Integrated Mixed Reality Approach**|Shuo Wang et.al.|[2505.10902](http://arxiv.org/abs/2505.10902)|null|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205](http://arxiv.org/abs/2505.10205)|null|
 |**2025-05-13**|**Template-Guided Reconstruction of Pulmonary Segments with Neural Implicit Functions**|Kangxian Xie et.al.|[2505.08919](http://arxiv.org/abs/2505.08919)|**[link](https://github.com/m3dv/impulse)**|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
@@ -1090,6 +1092,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**What's Inside Your Diffusion Model? A Score-Based Riemannian Metric to Explore the Data Manifold**|Simone Azeglio et.al.|[2505.11128](http://arxiv.org/abs/2505.11128)|null|
+|**2025-05-16**|**Towards Self-Improvement of Diffusion Models via Group Preference Optimization**|Renjie Chen et.al.|[2505.11070](http://arxiv.org/abs/2505.11070)|null|
+|**2025-05-15**|**IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation**|Amritanshu Tiwari et.al.|[2505.10743](http://arxiv.org/abs/2505.10743)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|**[link](https://github.com/prs-eth/marigold)**|
 |**2025-05-13**|**Generative AI for Urban Planning: Synthesizing Satellite Imagery via Diffusion Models**|Qingyi Wang et.al.|[2505.08833](http://arxiv.org/abs/2505.08833)|null|
 |**2025-05-12**|**Towards SFW sampling for diffusion models via external conditioning**|Camilo Carvajal Reyes et.al.|[2505.08817](http://arxiv.org/abs/2505.08817)|**[link](https://github.com/camilocarvajalreyes/sfws-stable-diffusion)**|
@@ -1997,6 +2002,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
