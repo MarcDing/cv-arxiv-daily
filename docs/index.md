@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -1092,7 +1092,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-16**|**What's Inside Your Diffusion Model? A Score-Based Riemannian Metric to Explore the Data Manifold**|Simone Azeglio et.al.|[2505.11128](http://arxiv.org/abs/2505.11128)|null|
+|**2025-05-19**|**What's Inside Your Diffusion Model? A Score-Based Riemannian Metric to Explore the Data Manifold**|Simone Azeglio et.al.|[2505.11128](http://arxiv.org/abs/2505.11128)|null|
 |**2025-05-16**|**Towards Self-Improvement of Diffusion Models via Group Preference Optimization**|Renjie Chen et.al.|[2505.11070](http://arxiv.org/abs/2505.11070)|null|
 |**2025-05-15**|**IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation**|Amritanshu Tiwari et.al.|[2505.10743](http://arxiv.org/abs/2505.10743)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|**[link](https://github.com/prs-eth/marigold)**|
