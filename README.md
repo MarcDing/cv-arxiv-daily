@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data**|Guilherme de Oliveira et.al.|[2505.15465](http://arxiv.org/abs/2505.15465)|null|
+|**2025-05-21**|**GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation**|Yuchen Li et.al.|[2505.15287](http://arxiv.org/abs/2505.15287)|null|
+|**2025-05-21**|**Building LOD Representation for 3D Urban Scenes**|Shanshan Pan et.al.|[2505.15190](http://arxiv.org/abs/2505.15190)|null|
 |**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621](http://arxiv.org/abs/2505.14621)|null|
 |**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards**|Laura-Sophia von Hirschhausen et.al.|[2505.14029](http://arxiv.org/abs/2505.14029)|null|
@@ -1104,6 +1107,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**gen2seg: Generative Models Enable Generalizable Instance Segmentation**|Om Khangaonkar et.al.|[2505.15263](http://arxiv.org/abs/2505.15263)|null|
+|**2025-05-21**|**Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation**|Alessandro dos Santos Ferreira et.al.|[2505.15077](http://arxiv.org/abs/2505.15077)|null|
 |**2025-05-20**|**Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement**|Hao Shi et.al.|[2505.13983](http://arxiv.org/abs/2505.13983)|null|
 |**2025-05-20**|**EfficientLLM: Efficiency in Large Language Models**|Zhengqing Yuan et.al.|[2505.13840](http://arxiv.org/abs/2505.13840)|null|
 |**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
