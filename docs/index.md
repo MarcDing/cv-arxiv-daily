@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -1104,7 +1104,7 @@ layout: default
 |**2025-05-22**|**Erased or Dormant? Rethinking Concept Erasure Through Reversibility**|Ping Liu et.al.|[2505.16174](http://arxiv.org/abs/2505.16174)|null|
 |**2025-05-21**|**gen2seg: Generative Models Enable Generalizable Instance Segmentation**|Om Khangaonkar et.al.|[2505.15263](http://arxiv.org/abs/2505.15263)|null|
 |**2025-05-21**|**Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation**|Alessandro dos Santos Ferreira et.al.|[2505.15077](http://arxiv.org/abs/2505.15077)|null|
-|**2025-05-20**|**Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement**|Hao Shi et.al.|[2505.13983](http://arxiv.org/abs/2505.13983)|null|
+|**2025-05-20**|**Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement**|Hao Shi et.al.|[2505.13983](http://arxiv.org/abs/2505.13983)|**[link](https://github.com/hshi-speech/repair-diffusion)**|
 |**2025-05-20**|**EfficientLLM: Efficiency in Large Language Models**|Zhengqing Yuan et.al.|[2505.13840](http://arxiv.org/abs/2505.13840)|null|
 |**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
 |**2025-05-19**|**Few-Step Diffusion via Score identity Distillation**|Mingyuan Zhou et.al.|[2505.12674](http://arxiv.org/abs/2505.12674)|**[link](https://github.com/mingyuanzhou/sid-lsg)**|
