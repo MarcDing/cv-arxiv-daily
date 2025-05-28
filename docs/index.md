@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -1110,7 +1110,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-25**|**JEDI: The Force of Jensen-Shannon Divergence in Disentangling Diffusion Models**|Eric Tillmann Bill et.al.|[2505.19166](http://arxiv.org/abs/2505.19166)|null|
-|**2025-05-24**|**Restoring Real-World Images with an Internal Detail Enhancement Diffusion Model**|Peng Xiao et.al.|[2505.18674](http://arxiv.org/abs/2505.18674)|null|
+|**2025-05-27**|**Restoring Real-World Images with an Internal Detail Enhancement Diffusion Model**|Peng Xiao et.al.|[2505.18674](http://arxiv.org/abs/2505.18674)|null|
 |**2025-05-24**|**Unleashing Diffusion Transformers for Visual Correspondence by Modulating Massive Activations**|Chaofan Gan et.al.|[2505.18584](http://arxiv.org/abs/2505.18584)|null|
 |**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
 |**2025-05-22**|**Erased or Dormant? Rethinking Concept Erasure Through Reversibility**|Ping Liu et.al.|[2505.16174](http://arxiv.org/abs/2505.16174)|null|
