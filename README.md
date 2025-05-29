@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|null|
 |**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
 |**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
-|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
 |**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026](http://arxiv.org/abs/2505.19026)|null|
@@ -1117,7 +1117,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2044,17 +2044,17 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
-|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
-|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
-|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793](http://arxiv.org/abs/2505.19793)|null|
+|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
+|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793](http://arxiv.org/abs/2505.19793)|**[link](https://github.com/klmav-cuc/gdb-nerf)**|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
 |**2025-05-25**|**Triangle Splatting for Real-Time Radiance Field Rendering**|Jan Held et.al.|[2505.19175](http://arxiv.org/abs/2505.19175)|null|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
@@ -3260,7 +3260,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
