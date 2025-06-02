@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642](http://arxiv.org/abs/2505.23642)|null|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054](http://arxiv.org/abs/2505.23054)|null|
 |**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044](http://arxiv.org/abs/2505.23044)|null|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
@@ -1124,7 +1124,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1132,7 +1132,7 @@
 |---|---|---|---|---|
 |**2025-05-29**|**LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter**|Runyi Li et.al.|[2505.23462](http://arxiv.org/abs/2505.23462)|null|
 |**2025-05-29**|**TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models**|Finn Carter et.al.|[2505.23312](http://arxiv.org/abs/2505.23312)|null|
-|**2025-05-29**|**FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing**|Jeongsol Kim et.al.|[2505.23145](http://arxiv.org/abs/2505.23145)|null|
+|**2025-05-29**|**FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing**|Jeongsol Kim et.al.|[2505.23145](http://arxiv.org/abs/2505.23145)|**[link](https://github.com/flowalign/flowalign)**|
 |**2025-05-28**|**What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?**|Jinhong Ni et.al.|[2505.22129](http://arxiv.org/abs/2505.22129)|null|
 |**2025-05-28**|**SDPO: Importance-Sampled Direct Preference Optimization for Stable Diffusion Training**|Xiaomeng Yang et.al.|[2505.21893](http://arxiv.org/abs/2505.21893)|null|
 |**2025-05-27**|**ALTER: All-in-One Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation**|Xiaomeng Yang et.al.|[2505.21817](http://arxiv.org/abs/2505.21817)|null|
@@ -2057,20 +2057,20 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
-|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
+|**2025-05-30**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
 |**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793](http://arxiv.org/abs/2505.19793)|**[link](https://github.com/klmav-cuc/gdb-nerf)**|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
@@ -3278,7 +3278,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
