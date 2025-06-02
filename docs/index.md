@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642](http://arxiv.org/abs/2505.23642)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054](http://arxiv.org/abs/2505.23054)|null|
@@ -1123,6 +1124,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636](http://arxiv.org/abs/2505.24636)|null|
+|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|null|
 |**2025-05-29**|**LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter**|Runyi Li et.al.|[2505.23462](http://arxiv.org/abs/2505.23462)|null|
 |**2025-05-29**|**TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models**|Finn Carter et.al.|[2505.23312](http://arxiv.org/abs/2505.23312)|null|
 |**2025-05-29**|**FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing**|Jeongsol Kim et.al.|[2505.23145](http://arxiv.org/abs/2505.23145)|**[link](https://github.com/flowalign/flowalign)**|
