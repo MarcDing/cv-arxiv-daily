@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -1143,7 +1143,7 @@ layout: default
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
 |**2025-06-03**|**Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation**|Dingwei Chen et.al.|[2506.02973](http://arxiv.org/abs/2506.02973)|null|
 |**2025-06-03**|**Solving Inverse Problems with FLAIR**|Julius Erbach et.al.|[2506.02680](http://arxiv.org/abs/2506.02680)|null|
-|**2025-06-03**|**Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**|Hongtao Huang et.al.|[2506.02488](http://arxiv.org/abs/2506.02488)|null|
+|**2025-06-04**|**Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**|Hongtao Huang et.al.|[2506.02488](http://arxiv.org/abs/2506.02488)|null|
 |**2025-06-02**|**Diff2Flow: Training Flow Matching Models via Diffusion Model Alignment**|Johannes Schusterbauer et.al.|[2506.02221](http://arxiv.org/abs/2506.02221)|null|
 |**2025-06-02**|**G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models**|Tianjiao Zhang et.al.|[2506.01539](http://arxiv.org/abs/2506.01539)|null|
 |**2025-06-01**|**Aiding Medical Diagnosis through Image Synthesis and Classification**|Kanishk Choudhary et.al.|[2506.00786](http://arxiv.org/abs/2506.00786)|null|
