@@ -1162,7 +1162,7 @@ layout: default
 |**2025-06-12**|**ME: Trigger Element Combination Backdoor Attack on Copyright Infringement**|Feiyu Yang et.al.|[2506.10776](http://arxiv.org/abs/2506.10776)|null|
 |**2025-06-11**|**GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models**|Zilong Wang et.al.|[2506.10047](http://arxiv.org/abs/2506.10047)|null|
 |**2025-06-10**|**Token Perturbation Guidance for Diffusion Models**|Javad Rajabi et.al.|[2506.10036](http://arxiv.org/abs/2506.10036)|null|
-|**2025-06-09**|**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems**|Aniket Rege et.al.|[2506.08071](http://arxiv.org/abs/2506.08071)|null|
+|**2025-06-09**|**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems**|Aniket Rege et.al.|[2506.08071](http://arxiv.org/abs/2506.08071)|**[link](https://github.com/aniketrege/cure-bench)**|
 |**2025-06-09**|**Difference Inversion: Interpolate and Isolate the Difference with Token Consistency for Image Analogy Generation**|Hyunsoo Kim et.al.|[2506.07750](http://arxiv.org/abs/2506.07750)|null|
 |**2025-06-09**|**Evaluating Robustness in Latent Diffusion Models via Embedding Level Augmentation**|Boris Martirosyan et.al.|[2506.07706](http://arxiv.org/abs/2506.07706)|null|
 |**2025-06-06**|**Noise Consistency Regularization for Improved Subject-Driven Image Synthesis**|Yao Ni et.al.|[2506.06483](http://arxiv.org/abs/2506.06483)|null|
