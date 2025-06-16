@@ -1165,6 +1165,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
+|**2025-06-13**|**GaussMarker: Robust Dual-Domain Watermark for Diffusion Models**|Kecen Li et.al.|[2506.11444](http://arxiv.org/abs/2506.11444)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/abs/2506.10978)|null|
 |**2025-06-12**|**ME: Trigger Element Combination Backdoor Attack on Copyright Infringement**|Feiyu Yang et.al.|[2506.10776](http://arxiv.org/abs/2506.10776)|null|
 |**2025-06-11**|**GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models**|Zilong Wang et.al.|[2506.10047](http://arxiv.org/abs/2506.10047)|null|
