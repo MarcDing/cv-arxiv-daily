@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**|Yansong Qu et.al.|[2506.21544](http://arxiv.org/abs/2506.21544)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
+|**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
+|**2025-06-26**|**PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image**|Hongyu Yan et.al.|[2506.21076](http://arxiv.org/abs/2506.21076)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
@@ -1193,6 +1198,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency**|Kaiyu Song et.al.|[2506.21452](http://arxiv.org/abs/2506.21452)|null|
 |**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452](http://arxiv.org/abs/2506.20452)|null|
 |**2025-06-24**|**Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders**|Matyas Bohacek et.al.|[2506.19708](http://arxiv.org/abs/2506.19708)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
@@ -2163,6 +2169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
 |**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742](http://arxiv.org/abs/2506.19742)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
