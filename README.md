@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
+|**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258](http://arxiv.org/abs/2507.04258)|null|
+|**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
 |**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
 |**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu et.al.|[2507.02705](http://arxiv.org/abs/2507.02705)|null|
 |**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411](http://arxiv.org/abs/2507.02411)|null|
@@ -1214,6 +1217,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
+|**2025-07-05**|**Unlocking Compositional Control: Self-Supervision for LVLM-Based Image Generation**|Fernando Gabriela Garcia et.al.|[2507.04151](http://arxiv.org/abs/2507.04151)|null|
+|**2025-07-04**|**When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-box Setting**|Xiaodong Wu et.al.|[2507.03646](http://arxiv.org/abs/2507.03646)|null|
+|**2025-07-04**|**Personalized Image Generation from an Author Writing Style**|Sagar Gandhi et.al.|[2507.03313](http://arxiv.org/abs/2507.03313)|null|
+|**2025-07-01**|**FreqCross: A Multi-Modal Frequency-Spatial Fusion Network for Robust Detection of Stable Diffusion 3.5 Generated Images**|Guang Yang et.al.|[2507.02995](http://arxiv.org/abs/2507.02995)|null|
 |**2025-07-04**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-02**|**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**|Worameth Chinchuthakun et.al.|[2507.01305](http://arxiv.org/abs/2507.01305)|null|
@@ -2195,6 +2203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
