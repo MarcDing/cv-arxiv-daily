@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Reconstruction
@@ -1214,7 +1214,7 @@ layout: default
 |**2025-07-05**|**Unlocking Compositional Control: Self-Supervision for LVLM-Based Image Generation**|Fernando Gabriela Garcia et.al.|[2507.04151](http://arxiv.org/abs/2507.04151)|null|
 |**2025-07-04**|**When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-box Setting**|Xiaodong Wu et.al.|[2507.03646](http://arxiv.org/abs/2507.03646)|null|
 |**2025-07-04**|**Personalized Image Generation from an Author Writing Style**|Sagar Gandhi et.al.|[2507.03313](http://arxiv.org/abs/2507.03313)|null|
-|**2025-07-01**|**FreqCross: A Multi-Modal Frequency-Spatial Fusion Network for Robust Detection of Stable Diffusion 3.5 Generated Images**|Guang Yang et.al.|[2507.02995](http://arxiv.org/abs/2507.02995)|null|
+|**2025-07-08**|**FreqCross: A Multi-Modal Frequency-Spatial Fusion Network for Robust Detection of Stable Diffusion 3.5 Generated Images**|Guang Yang et.al.|[2507.02995](http://arxiv.org/abs/2507.02995)|null|
 |**2025-07-04**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-02**|**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**|Worameth Chinchuthakun et.al.|[2507.01305](http://arxiv.org/abs/2507.01305)|null|
