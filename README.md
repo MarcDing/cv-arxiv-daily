@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang et.al.|[2507.10009](http://arxiv.org/abs/2507.10009)|null|
 |**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690](http://arxiv.org/abs/2507.08690)|null|
 |**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi et.al.|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
@@ -1225,6 +1226,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
+|**2025-07-13**|**Demystifying Flux Architecture**|Or Greenberg et.al.|[2507.09595](http://arxiv.org/abs/2507.09595)|null|
+|**2025-07-12**|**EgoAnimate: Generating Human Animations from Egocentric top-down Views**|G. Kutay Türkoglu et.al.|[2507.09230](http://arxiv.org/abs/2507.09230)|null|
+|**2025-07-12**|**Interactive Drawing Guidance for Anime Illustrations with Diffusion Model**|Chuang Chen et.al.|[2507.09140](http://arxiv.org/abs/2507.09140)|null|
+|**2025-07-12**|**Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning**|Yiyang Chen et.al.|[2507.09102](http://arxiv.org/abs/2507.09102)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
 |**2025-07-09**|**Towards Evaluating Robustness of Prompt Adherence in Text to Image Models**|Sujith Vemishetty et.al.|[2507.08039](http://arxiv.org/abs/2507.08039)|null|
 |**2025-07-09**|**Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning**|Renyang Liu et.al.|[2507.07139](http://arxiv.org/abs/2507.07139)|null|
@@ -2219,8 +2225,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
