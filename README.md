@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,8 +21,8 @@
 |---|---|---|---|---|
 |**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
 |**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628](http://arxiv.org/abs/2507.13628)|null|
-|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
-|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
+|**2025-07-19**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
+|**2025-07-19**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
@@ -1229,7 +1229,7 @@
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004](http://arxiv.org/abs/2307.04004)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
 
-<p align=right>(<a href=#Updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2234,7 +2234,7 @@
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146](http://arxiv.org/abs/2307.07146)|null|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
 
-<p align=right>(<a href=#Updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
 
 ## NeRF
 
@@ -3501,7 +3501,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 
-<p align=right>(<a href=#Updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
